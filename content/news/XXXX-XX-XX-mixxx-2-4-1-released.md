@@ -10,7 +10,9 @@ The Mixxx-developingteam started the year with good intentions and therefore imp
 the next release: version 2.4.1 can be offered. In between versions with new features this version delivers some solutions for minor bugs and problems that 
 came with 2.4.
 
-####Before listing the details, I would like to share some memorable moments I could follow in the Zulip-chat that are significant for the atmosphere and
+
+####MSomething to share
+Before listing the details, I would like to share some memorable moments I could follow in the Zulip-chat that are significant for the atmosphere and
 motivation of the Mixxx-team:
 
 * Ten days ago a Mixxx-er posted a problem that he struggled with for over a year. He was unable to make a MIDI-connection between his Pioneer
@@ -26,7 +28,7 @@ in a song you can see the remaining time (or # beats) until this point in the wa
 This feature will be available in the 2.5
 Shout out to m!
 
-####What's going on in the Mixxx-team?/n
+####What's going on in the Mixxx-team?
 * At the moment some people are trying to get Mixxx ready for stem-files, stem-files are a new multi-channel format of audio files with which DJ's can 'remix'
 * the song on-the-fly.
 * A lot of people are improving controller-mappings to support more hardware with more features.
@@ -48,7 +50,7 @@ https://mixxx.org/get-involved/#translators
 
 You can download the new release from the [Download](https://mixxx.org/download/) page. 
 
-####And now the 'what's new / what's changed / what's corrected' in 2.4.1: 
+####'what's new / what's changed / what's corrected' in 2.4.1: 
 
 #####Controller Mappings
 * Behringer DDM4000 & BCR2000: Fix exception in JS code
