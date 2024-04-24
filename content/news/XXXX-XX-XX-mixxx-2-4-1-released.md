@@ -113,41 +113,41 @@ He was unable to make a MIDI-connection between his Pioneer DJM-750MK2 Mixer wit
 A Mixxx-developer took the challenge and during 2 weeks you could see the messages flying over: log-files, screenshots, debugging-info, tooltests, capturing communication, a new pull request...
 I think I've seen over 100 messages.
 Trying things, fail, one step forward, two steps back ...
-After two weeks the Mixxx-developer managed to get it fixed.
+After two weeks the Mixxx developer managed to get it fixed.
 All from a distance, not having the hardware available, putting a lot of time in it.
 It was fantastic to be a witness of this magic.
 ######Shout out to [Niko/Swiftb0y](https://mixxx.org/news/author/nikolaus-einhauser/)!
 
 
 #####Wow!
-About three weeks ago a Mixxx-developer proposed a new feature: showing the remaining beats till the next cue point in the waveform.
-After some writing, testing, rewriting ... he created a feature I couldn't miss anymore.
-If you make a hotcue at eg. a climax or a loop or an intro start in a song you can see the remaining time (or # beats) until this point in the waveform.
-Once a DJ has used this feature, she/he/they can't without it.
-This feature will be available in the 2.5
+About three weeks ago a Mixxx developer proposed a new feature: showing the remaining beats till the next cue point in the waveform.
+After some writing, testing, rewriting ... he created a feature I couldn't do without anymore.
+If you make a hotcue at eg. a climax, or a loop, or an intro start in a song, you can see the remaining time (or number beats) until this point in the waveform.
+Once a DJ has used this feature, they can't live without it.
+This feature will be available in the next stable version 2.5
 ######Shout out to [m0dB](https://github.com/m0dB)!
 
 
 
-####What's going on in the Mixxx-team?
-* At the moment some people are trying to get Mixxx ready for stem-files, stem-files are a new multi-channel format of audio files with which DJ's can 'remix' the song on-the-fly.
+####What's going on in the Mixxx team?
+* At the moment some people are trying to get Mixxx ready for stems. Stems are a new multi-channel format of audio files with which DJ's can 'remix' the song on-the-fly.
 * A lot of people are improving controller-mappings to support more hardware with more features.
-* Research is ongoing to make Mixxx able to share it's database over lan.
-* There's someone very keen on giving Mixxx the ability for Spatial Audio.
+* Research is ongoing to make Mixxx able to share its database over a network.
+* There's someone very keen on giving Mixxx the ability to support Spatial Audio.
 * Translators are very busy adapting the manual and interface.
-* Developers continue improving features, correcting minor bugs, adapting code to support more machines and operating systems.
-* On daily basis Mixxx-ers are given adequate support for small or big problems. Every question is taken serious.
+* Developers continue improving features, correcting minor bugs, and adapting code to support more machines and operating systems.
+* On daily basis Mixxx-ers are given adequate support for small or big problems. Every question is taken seriously.
 
-No cure for the spreading Mixxx-virus, you 're all invited to [join the Mixxx-team](https://mixxx.org/get-involved/).
+There is no cure for the spreading Mixxx-virus, everyone is invited to [join the Mixxx-team](https://mixxx.org/get-involved/).
 
 
 ####Appeal
 I want to take the opportunity to make an appeal to all Mixxx-ers:
-As we try to explain the Mixxx-features in an optimal way and try to give the best possible support to every user, not everyone understands the English language as well as others.
+As we try to explain Mixxx's features in an optimal way and try to give the best possible support to every user, not everyone understands the English language as well as others.
 Especially when the language contains technical terms it can get confusing for not native speakers.
 If you understand the English manual well and you notice missing translations in your own language, please take the time to translate a/some part(s).
 It needs a little effort in the beginning, but you can make a huge difference for other users.
-We do are available to get you started.
+We are available to get you started.
 [Translators Wanted](https://mixxx.org/get-involved/#translators)
 
 ---- Owen, this is the paragraph you asked, you can edit this ----
