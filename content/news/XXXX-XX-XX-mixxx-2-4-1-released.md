@@ -41,6 +41,7 @@ Shout out to m!
 * On daily basis Mixxx-ers are given adequate support for small or big problems. Every question is taken serious.
 
 No cure for the spreading Mixxx-virus, you 're all invited to join the Mixxx-team. 
+https://mixxx.org/get-involved/
 
 #####Appeal
 I want to take the opportunity to make an appeal to all Mixxx-ers:
