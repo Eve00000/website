@@ -11,49 +11,6 @@ the next release: version 2.4.1 can be offered. In between versions with new fea
 came with 2.4.
 
 
-####What happened?
-Before listing the details, I would like to share some memorable moments I could follow in the [Zulip](https://mixxx.zulipchat.com/login/)-chat that are significant for the atmosphere and
-motivation of the Mixxx-team:
-
-#####Not giving up...
-Ten days ago a Mixxx-er posted a problem that he struggled with for over a year. He was unable to make a MIDI-connection between his Pioneer
-DJM-750MK2 Mixer with Mixxx and then activate the DVS (Digital Vinyl System) to work with Mixxx's Vinyl Control. A Mixxx-developer took the challenge and
-during 2 weeks you could see the messages flying over: log-files, screenshots, debugging-info, tooltests, capturing communication, a new pull request...
-I think I've seen over 100 messages. Trying things, fail, one step forward, two steps back ... After two weeks the Mixxx-developer managed to get it fixed.
-All on distance, not having the hardware available, putting a lot of time in it. It was fantastic to be a witness of this magic.
-######Shout out to N/S!
-
-
-#####Wow!
-About three weeks ago a Mixxx-developer proposed a new feature: showing the remaining beats till the next cue point in the waveform.
-After some writing, testing, rewriting ... he created a feature I couldn't miss anymore. If you make a hotcue at eg. a climax or a loop or an intro start
-in a song you can see the remaining time (or # beats) until this point in the waveform. Once a DJ has used this feature, she/he/they can't without it.
-This feature will be available in the 2.5
-######Shout out to m!
-
-
-####What's going on in the Mixxx-team?
-* At the moment some people are trying to get Mixxx ready for stem-files, stem-files are a new multi-channel format of audio files with which DJ's can 'remix' the song on-the-fly.
-* A lot of people are improving controller-mappings to support more hardware with more features.
-* Research is ongoing to make Mixxx able to share it's database over lan.
-* There's someone very keen on giving Mixxx the ability for Spatial Audio.
-* Translators are very busy adapting the manual and interface.
-* Developers continue improving features, correcting minor bugs, adapting code to support more machines and operating systems.
-* On daily basis Mixxx-ers are given adequate support for small or big problems. Every question is taken serious.
-
-No cure for the spreading Mixxx-virus, you 're all invited to [join the Mixxx-team](https://mixxx.org/get-involved/).
-
-
-####Appeal
-I want to take the opportunity to make an appeal to all Mixxx-ers:
-As we try to explain the Mixxx-features in an optimal way and try to give the best possible support to every user, not everyone understands the English 
-language as well as others. Especially when the language contains technical terms it can get confusing for not native speakers.
-If you understand the English manual well and you notice missing translations in your own language, please take the time to translate a/some part(s).
-It needs a little effort in the beginning, but you can make a huge difference for other users.
-We do are available to get you started.
-[Translators Wanted](https://mixxx.org/get-involved/#translators)
-
-
 ####What's new / What's changed / What's corrected in 2.4.1
 You can download the new release from the [Download](https://mixxx.org/download/) page, the list of changes can be found in the [ChangeLog](https://github.com/mixxxdj/mixxx/blob/2.4.1/CHANGELOG.md)
 
@@ -146,3 +103,45 @@ You can download the new release from the [Download](https://mixxx.org/download/
   [#10880](https://github.com/mixxxdj/mixxx/issues/10880)
   [#13154](https://github.com/mixxxdj/mixxx/pull/13154)
 
+
+####What happened?
+Before listing the details, I would like to share some memorable moments I could follow in the [Zulip](https://mixxx.zulipchat.com/login/)-chat that are significant for the atmosphere and
+motivation of the Mixxx-team:
+
+#####Not giving up...
+Ten days ago a Mixxx-er posted a problem that he struggled with for over a year. He was unable to make a MIDI-connection between his Pioneer
+DJM-750MK2 Mixer with Mixxx and then activate the DVS (Digital Vinyl System) to work with Mixxx's Vinyl Control. A Mixxx-developer took the challenge and
+during 2 weeks you could see the messages flying over: log-files, screenshots, debugging-info, tooltests, capturing communication, a new pull request...
+I think I've seen over 100 messages. Trying things, fail, one step forward, two steps back ... After two weeks the Mixxx-developer managed to get it fixed.
+All on distance, not having the hardware available, putting a lot of time in it. It was fantastic to be a witness of this magic.
+######Shout out to N/S!
+
+
+#####Wow!
+About three weeks ago a Mixxx-developer proposed a new feature: showing the remaining beats till the next cue point in the waveform.
+After some writing, testing, rewriting ... he created a feature I couldn't miss anymore. If you make a hotcue at eg. a climax or a loop or an intro start
+in a song you can see the remaining time (or # beats) until this point in the waveform. Once a DJ has used this feature, she/he/they can't without it.
+This feature will be available in the 2.5
+######Shout out to m!
+
+
+####What's going on in the Mixxx-team?
+* At the moment some people are trying to get Mixxx ready for stem-files, stem-files are a new multi-channel format of audio files with which DJ's can 'remix' the song on-the-fly.
+* A lot of people are improving controller-mappings to support more hardware with more features.
+* Research is ongoing to make Mixxx able to share it's database over lan.
+* There's someone very keen on giving Mixxx the ability for Spatial Audio.
+* Translators are very busy adapting the manual and interface.
+* Developers continue improving features, correcting minor bugs, adapting code to support more machines and operating systems.
+* On daily basis Mixxx-ers are given adequate support for small or big problems. Every question is taken serious.
+
+No cure for the spreading Mixxx-virus, you 're all invited to [join the Mixxx-team](https://mixxx.org/get-involved/).
+
+
+####Appeal
+I want to take the opportunity to make an appeal to all Mixxx-ers:
+As we try to explain the Mixxx-features in an optimal way and try to give the best possible support to every user, not everyone understands the English 
+language as well as others. Especially when the language contains technical terms it can get confusing for not native speakers.
+If you understand the English manual well and you notice missing translations in your own language, please take the time to translate a/some part(s).
+It needs a little effort in the beginning, but you can make a huge difference for other users.
+We do are available to get you started.
+[Translators Wanted](https://mixxx.org/get-involved/#translators)
