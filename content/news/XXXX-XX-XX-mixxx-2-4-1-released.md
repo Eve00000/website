@@ -91,7 +91,7 @@ You can download the new release from the [Download](https://mixxx.org/download/
   [#12928](https://github.com/mixxxdj/mixxx/pull/12928)
 * Tango: Remove unneeded waveform Singleton
   [#12938](https://github.com/mixxxdj/mixxx/pull/12938)
-* Possible crash in customs skins using parallel waveforms
+* Prevent possible crash in customs skins using parallel waveforms
   [#13043](https://github.com/mixxxdj/mixxx/pull/13043)
   [#12580](https://github.com/mixxxdj/mixxx/issues/12580)
 * Possible crash in customs skins using parallel waveforms
@@ -135,7 +135,7 @@ You can download the new release from the [Download](https://mixxx.org/download/
 * Tagfetcher: Cache fetched covers
   [#12301](https://github.com/mixxxdj/mixxx/pull/12301)
   [#11084](https://github.com/mixxxdj/mixxx/issues/11084)
-* Avoid iterator being one off and DEBUG_ASSERT in Beats::iteratorFrom
+* Avoid beats iterator being one off and DEBUG_ASSERT in Beats::iteratorFrom
   [#13150](https://github.com/mixxxdj/mixxx/pull/13150)
   [#13149](https://github.com/mixxxdj/mixxx/issues/13149)
 * Show hint if resource path in CMakeCache.txt does not exist
