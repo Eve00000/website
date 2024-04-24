@@ -40,8 +40,8 @@ Shout out to m!
 * Developers continue improving features, correcting minor bugs, adapting code to support more machines and operating systems.
 * On daily basis Mixxx-ers are given adequate support for small or big problems. Every question is taken serious.
 
-No cure for the spreading Mixxx-virus, you 're all invited to join the Mixxx-team. 
-https://mixxx.org/get-involved/
+No cure for the spreading Mixxx-virus, you 're all invited to join the [Mixxx-team](https://mixxx.org/get-involved/).
+
 
 #####Appeal
 I want to take the opportunity to make an appeal to all Mixxx-ers:
@@ -50,7 +50,8 @@ language as well as others. Especially when the language contains technical term
 If you understand the English manual well and you notice missing translations in your own language, please take the time to translate a/some part(s).
 It needs a little effort in the beginning, but you can make a huge difference for other users.
 We do are available to get you started.
-https://mixxx.org/get-involved/#translators
+[Translators Wanted](https://mixxx.org/get-involved/#translators)
+
 
 You can download the new release from the [Download](https://mixxx.org/download/) page. 
 
