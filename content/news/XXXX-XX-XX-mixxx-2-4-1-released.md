@@ -105,22 +105,26 @@ You can download the new release from the [Download](https://mixxx.org/download/
 
 
 ####What happened?
-Before listing the details, I would like to share some memorable moments I could follow in the [Zulip](https://mixxx.zulipchat.com/login/)-chat that are significant for the atmosphere and
+I would like to share some memorable moments I could follow in the [Zulip](https://mixxx.zulipchat.com/login/)-chat that are significant for the atmosphere and
 motivation of the Mixxx-team:
 
 #####Not giving up...
-Ten days ago a Mixxx-er posted a problem that he struggled with for over a year. He was unable to make a MIDI-connection between his Pioneer
-DJM-750MK2 Mixer with Mixxx and then activate the DVS (Digital Vinyl System) to work with Mixxx's Vinyl Control. A Mixxx-developer took the challenge and
-during 2 weeks you could see the messages flying over: log-files, screenshots, debugging-info, tooltests, capturing communication, a new pull request...
-I think I've seen over 100 messages. Trying things, fail, one step forward, two steps back ... After two weeks the Mixxx-developer managed to get it fixed.
-All on distance, not having the hardware available, putting a lot of time in it. It was fantastic to be a witness of this magic.
+Ten days ago a Mixxx-er posted a problem that he struggled with for over a year.
+He was unable to make a MIDI-connection between his Pioneer DJM-750MK2 Mixer with Mixxx and then activate the DVS (Digital Vinyl System) to work with Mixxx's Vinyl Control.
+A Mixxx-developer took the challenge and during 2 weeks you could see the messages flying over: log-files, screenshots, debugging-info, tooltests, capturing communication, a new pull request...
+I think I've seen over 100 messages.
+Trying things, fail, one step forward, two steps back ...
+After two weeks the Mixxx-developer managed to get it fixed.
+All on distance, not having the hardware available, putting a lot of time in it.
+It was fantastic to be a witness of this magic.
 ######Shout out to N/S!
 
 
 #####Wow!
 About three weeks ago a Mixxx-developer proposed a new feature: showing the remaining beats till the next cue point in the waveform.
-After some writing, testing, rewriting ... he created a feature I couldn't miss anymore. If you make a hotcue at eg. a climax or a loop or an intro start
-in a song you can see the remaining time (or # beats) until this point in the waveform. Once a DJ has used this feature, she/he/they can't without it.
+After some writing, testing, rewriting ... he created a feature I couldn't miss anymore.
+If you make a hotcue at eg. a climax or a loop or an intro start in a song you can see the remaining time (or # beats) until this point in the waveform.
+Once a DJ has used this feature, she/he/they can't without it.
 This feature will be available in the 2.5
 ######Shout out to m!
 
@@ -139,8 +143,8 @@ No cure for the spreading Mixxx-virus, you 're all invited to [join the Mixxx-te
 
 ####Appeal
 I want to take the opportunity to make an appeal to all Mixxx-ers:
-As we try to explain the Mixxx-features in an optimal way and try to give the best possible support to every user, not everyone understands the English 
-language as well as others. Especially when the language contains technical terms it can get confusing for not native speakers.
+As we try to explain the Mixxx-features in an optimal way and try to give the best possible support to every user, not everyone understands the English language as well as others.
+Especially when the language contains technical terms it can get confusing for not native speakers.
 If you understand the English manual well and you notice missing translations in your own language, please take the time to translate a/some part(s).
 It needs a little effort in the beginning, but you can make a huge difference for other users.
 We do are available to get you started.
