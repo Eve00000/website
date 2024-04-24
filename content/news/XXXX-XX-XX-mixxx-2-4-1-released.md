@@ -105,8 +105,7 @@ You can download the new release from the [Download](https://mixxx.org/download/
 
 
 ####What happened?
-I would like to share some memorable moments I could follow in the [Zulip](https://mixxx.zulipchat.com/login/)-chat that are significant for the atmosphere and
-motivation of the Mixxx-team:
+I would like to share some memorable moments from the [Zulip](https://mixxx.zulipchat.com/login/)-chat that are significant for the atmosphere and motivation of the Mixxx team:
 
 #####Not giving up...
 Ten days ago a Mixxx-er posted a problem that he struggled with for over a year.
@@ -115,9 +114,9 @@ A Mixxx-developer took the challenge and during 2 weeks you could see the messag
 I think I've seen over 100 messages.
 Trying things, fail, one step forward, two steps back ...
 After two weeks the Mixxx-developer managed to get it fixed.
-All on distance, not having the hardware available, putting a lot of time in it.
+All from a distance, not having the hardware available, putting a lot of time in it.
 It was fantastic to be a witness of this magic.
-######Shout out to N/S!
+######Shout out to [Niko/Swiftb0y](https://mixxx.org/news/author/nikolaus-einhauser/)!
 
 
 #####Wow!
@@ -126,7 +125,8 @@ After some writing, testing, rewriting ... he created a feature I couldn't miss 
 If you make a hotcue at eg. a climax or a loop or an intro start in a song you can see the remaining time (or # beats) until this point in the waveform.
 Once a DJ has used this feature, she/he/they can't without it.
 This feature will be available in the 2.5
-######Shout out to m!
+######Shout out to [m0dB](https://github.com/m0dB)!
+
 
 
 ####What's going on in the Mixxx-team?
