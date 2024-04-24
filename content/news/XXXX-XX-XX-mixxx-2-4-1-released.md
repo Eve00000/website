@@ -23,6 +23,7 @@ I think I've seen over 100 messages. Trying things, fail, one step forward, two 
 All on distance, not having the hardware available, putting a lot of time in it. It was fantastic to be a witness of this magic.
 ######Shout out to N/S!
 
+
 #####Wow!
 About three weeks ago a Mixxx-developer proposed a new feature: showing the remaining beats till the next cue point in the waveform.
 After some writing, testing, rewriting ... he created a feature I couldn't miss anymore. If you make a hotcue at eg. a climax or a loop or an intro start
