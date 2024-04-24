@@ -149,3 +149,47 @@ If you understand the English manual well and you notice missing translations in
 It needs a little effort in the beginning, but you can make a huge difference for other users.
 We do are available to get you started.
 [Translators Wanted](https://mixxx.org/get-involved/#translators)
+
+---- Owen, this is the paragraph you asked, you can edit this ----
+####Who's writing this?  
+Music was my first love and it will be my last.
+I like music, from Aaliyah to ZZ Top, from A Capella and Classical Aria's to Zouk, as long as it has a soul.
+Since I was very young I discovered the power of music, it can strengthen or change emotions.
+Music can make people happy or smile, even when they're sad.
+Music can be in the back- or foreground but I can't imagine a life without it.
+Since I was very young I liked to discover all kinds of music and share my discoveries with friends.
+When I was thirteen (in the 80's) I started making my own radioshow for myself, playing discs I found in my fathers (huge) collection.
+A family party started my DJ-career, I felt the joy of sharing music, making people happy with it, make them want to dance.
+Through the years I passed by a lot of venues, first in my hometown, later throughout the country and even abroad.
+In the late 80's I started using my computer in my DJ-ing, to get samples, own remixes or recordings I made from hard to get records.
+
+In the late 90's I got involved with BPM Studio, a superb but dated program. Dated because it was only compatible with MP3 and WAV.
+Soundquality was and is very important for me, the term audiophile describes me very well, so I don't want to make a compromise in the audioquality.
+Believe me, in the 90's, early 00's harddrivespace wasn't that obvious and WAV-files took a lot of space.
+
+I always observed what was going on in the DJ-world, I saw programs come and go. 
+Pioneer Recorbox, serato didn't suit me, so I continued using BPM Studio (yes it is still working) and Traktor side by side. 
+Both of them with a 19inch controller (BPM Studio Controller and Denon HC4500).
+BPM development stopped about ten years ago and Traktor worked fine for me until a couple of years ago. 
+All of a sudden they had to produce a lot of updates and had a lot of bugs, high CPU use, problems with high quality files, crashes…
+I could no longer trust and rely on Traktor for live gigs and I rediscovered Mixxx, with the versions 2.3.5/6 a big step was made.
+
+I downloaded the new version and gave it a try once in a while. I found a controller-mapping file (+10 years old) for my denon HC4500 that worked fine,
+(meanwhile I finetuned it with 4decks-support). And started a big test.
+My first test: Auto-DJ (autopilot in traktor)
+The software must be able to play music for days without an error = test of hardware and software.
+Traktor crashes time after time. Library = same song copied 100 times in wav, flac, m4a, mp3 traktor fails after 10minutes to 10hours. 
+Fail = just quit.
+The Traktor files became bigger and bigger… Gigabytes of stripes, xml ……
+
+Mixxx passed the test gloriously.
+On the same hardware I tested Mixxx 2.3.5 and the auto-dj was playing for over 10 days continuously without a problem.
+(HP Elitebok i7, 16Gb Ram, Win 10, ESI Gigaport on 96Khz).
+So started playing around with Mixxx, I started importing my live-library, playlists, crates and history, found some minor bugs which I discussed on the forum and in bugreport.
+
+I got more and more interested.
+I found some translation problems so I offered to make the Dutch translate of the Mixxx-application.
+Meanwhile I started diving and swimming in the code to tweak some minor things, like exporting statusfiles, nowplaying, writing a new cpontroller-mappingsfile.
+To give something back to the Mixxx-community I answered questions about little problems in the forum, I translated the manual and I offered to write this announcement that became a sort of testimony.
+
+And that all in about 12 weeks?
