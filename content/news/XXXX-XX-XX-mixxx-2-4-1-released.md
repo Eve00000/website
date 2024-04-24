@@ -46,10 +46,16 @@ We do are available to get you started.
 https://mixxx.org/get-involved/#translators
 
 You can download the new release from the [Download](https://mixxx.org/download/) page. 
+<<<<<<< HEAD
 
 #And now the 'what's new / what's changed / what's corrected' in 2.4.1: 
 
 ##Controller Mappings
+=======
+And now the 'what's new / what's changed / what's corrected' in 2.4.1: 
+
+Controller Mappings
+>>>>>>> 30b9f51d0fe7456e79f83d7adcef53c02d47bb50
 * Behringer DDM4000 & BCR2000: Fix exception in JS code
   [#12969](https://github.com/mixxxdj/mixxx/pull/12969)
 * Denon DJ MC6000MK2: Fix mapping of filter knob/button
