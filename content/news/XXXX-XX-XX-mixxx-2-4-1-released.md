@@ -42,6 +42,7 @@ Shout out to m!
 
 No cure for the spreading Mixxx-virus, you 're all invited to join the Mixxx-team. 
 
+#####Appeal
 I want to take the opportunity to make an appeal to all Mixxx-ers:
 As we try to explain the Mixxx-features in an optimal way and try to give the best possible support to every user, not everyone understands the English 
 language as well as others. Especially when the language contains technical terms it can get confusing for not native speakers.
@@ -52,7 +53,7 @@ https://mixxx.org/get-involved/#translators
 
 You can download the new release from the [Download](https://mixxx.org/download/) page. 
 
-####'what's new / what's changed / what's corrected' in 2.4.1: 
+####'what's new / what's changed / what's corrected' in 2.4.1
 
 #####Controller Mappings
 * Behringer DDM4000 & BCR2000: Fix exception in JS code
