@@ -55,8 +55,7 @@ We do are available to get you started.
 
 
 ####What's new / What's changed / What's corrected in 2.4.1
-*You can download the new release from the [Download](https://mixxx.org/download/) page. 
-*You can find the list also on [CHANGELOG](https://github.com/mixxxdj/mixxx/blob/2.4.1/CHANGELOG.md)
+You can download the new release from the [Download](https://mixxx.org/download/) page, the list of changes can be found on [CHANGELOG](https://github.com/mixxxdj/mixxx/blob/2.4.1/CHANGELOG.md)
 
 #####Controller Mappings
 * Behringer DDM4000 & BCR2000: Fix exception in JS code
