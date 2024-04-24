@@ -94,7 +94,7 @@ You can download the new release from the [Download](https://mixxx.org/download/
 * Prevent possible crash in customs skins using parallel waveforms
   [#13043](https://github.com/mixxxdj/mixxx/pull/13043)
   [#12580](https://github.com/mixxxdj/mixxx/issues/12580)
-* Possible crash in customs skins using parallel waveforms
+* Prevent possible crash in customs skins using parallel waveforms
   [#13043](https://github.com/mixxxdj/mixxx/pull/13043)
   [#12580](https://github.com/mixxxdj/mixxx/issues/12580)
   [#13136](https://github.com/mixxxdj/mixxx/pull/13136)
