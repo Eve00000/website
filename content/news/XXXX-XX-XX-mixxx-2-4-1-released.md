@@ -46,9 +46,6 @@ It needs a little effort in the beginning, but you can make a huge difference fo
 We do are available to get you started.
 
 You can download the new release from the [Download](https://mixxx.org/download/) page. 
-The test release with new features will be available soon.
-
-
 And now the 'what's new / what's changed / what's corrected' in 2.4.1: 
 
 Controller Mappings
