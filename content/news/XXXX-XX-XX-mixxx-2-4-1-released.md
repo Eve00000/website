@@ -7,7 +7,8 @@ status: draft
 Dear Mixxx-ers,
 
 The Mixxx-developingteam started the year with good intentions and therefore imposed itself some deadlines. That is why only two months after version 2.4, 
-the next release: version 2.4.1 can be offered. In between versions with new features this version delivers some solutions for bugs and problems.
+the next release: version 2.4.1 can be offered. In between versions with new features this version delivers some solutions for minor bugs and problems that 
+came with 2.4.
 
 ###Before listing the details, I would like to share some memorable moments I could follow in the Zulip-chat that are significant for the atmosphere and
 motivation of the Mixxx-team:
