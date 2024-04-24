@@ -150,7 +150,7 @@ It needs a little effort in the beginning, but you can make a huge difference fo
 We are available to get you started.
 [Translators Wanted](https://mixxx.org/get-involved/#translators)
 
----- Owen, this is the paragraph you asked, you can edit this ----
+
 ####Who's writing this?  
 Music was my first love and it will be my last.
 I like music, from Aaliyah to ZZ Top, from A Capella and Classical Aria's to Zouk, as long as it has a soul.
