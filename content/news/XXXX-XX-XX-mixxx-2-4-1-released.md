@@ -11,7 +11,7 @@ the next release: version 2.4.1 can be offered. In between versions with new fea
 came with 2.4.
 
 
-####MWhat happened?
+####What happened?
 Before listing the details, I would like to share some memorable moments I could follow in the Zulip-chat that are significant for the atmosphere and
 motivation of the Mixxx-team:
 
