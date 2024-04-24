@@ -146,5 +146,4 @@ You can download the new release from the [Download](https://mixxx.org/download/
   [#10880](https://github.com/mixxxdj/mixxx/issues/10880)
   [#13154](https://github.com/mixxxdj/mixxx/pull/13154)
 
-You can find the list also on https://github.com/mixxxdj/mixxx/blob/2.4.1/CHANGELOG.md  
-
+You can find the list also on [CHANGELOG](https://github.com/mixxxdj/mixxx/blob/2.4.1/CHANGELOG.md)
