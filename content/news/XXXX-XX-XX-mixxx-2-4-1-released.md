@@ -9,7 +9,7 @@ Dear Mixxx-ers,
 The Mixxx-developingteam started the year with good intentions and therefore imposed itself some deadlines. That is why only two months after version 2.4, 
 the next release: version 2.4.1 can be offered. In between versions with new features this version delivers some solutions for bugs and problems.
 
-#Before listing the details, I would like to share some memorable moments I could follow in the Zulip-chat that are significant for the atmosphere and
+###Before listing the details, I would like to share some memorable moments I could follow in the Zulip-chat that are significant for the atmosphere and
 motivation of the Mixxx-team:
 
 * Ten days ago a Mixxx-er posted a problem that he struggled with for over a year. He was unable to make a MIDI-connection between his Pioneer
@@ -25,7 +25,7 @@ in a song you can see the remaining time (or # beats) until this point in the wa
 This feature will be available in the 2.5
 Shout out to m!
 
-#What's going on in the Mixxx-team?/n
+###What's going on in the Mixxx-team?/n
 * At the moment some people are trying to get Mixxx ready for stem-files, stem-files are a new multi-channel format of audio files with which DJ's can 'remix'
 * the song on-the-fly.
 * A lot of people are improving controller-mappings to support more hardware with more features.
@@ -48,9 +48,9 @@ https://mixxx.org/get-involved/#translators
 You can download the new release from the [Download](https://mixxx.org/download/) page. 
 <<<<<<< HEAD
 
-#And now the 'what's new / what's changed / what's corrected' in 2.4.1: 
+###And now the 'what's new / what's changed / what's corrected' in 2.4.1: 
 
-##Controller Mappings
+####Controller Mappings
 =======
 And now the 'what's new / what's changed / what's corrected' in 2.4.1: 
 
@@ -84,7 +84,7 @@ Controller Mappings
 * Controller I/O table: sort action column by display string
   [#13039](https://github.com/mixxxdj/mixxx/pull/13039)
 
-##Target Support
+####Target Support
 * Deere: make sampler rows persist
   [#12928](https://github.com/mixxxdj/mixxx/pull/12928)
 * Tango: Remove unneeded waveform Singleton
@@ -105,7 +105,7 @@ Controller Mappings
 * Polish fx chain controls
   [#12805](https://github.com/mixxxdj/mixxx/pull/12805)
 
-##Library
+####Library
 * Allow adding new directories while watched directories are missing
   [#12937](https://github.com/mixxxdj/mixxx/pull/12937)
   [#10481](https://github.com/mixxxdj/mixxx/issues/10481)
@@ -123,7 +123,7 @@ Controller Mappings
 * Library track menu: show Hide action also in Playlist & Crates
   [#11901](https://github.com/mixxxdj/mixxx/pull/11901)
 
-##Miscellaneous
+####Miscellaneous
 * AutoDJ: Fix button state after error message about playing deck 3/4
   [#12976](https://github.com/mixxxdj/mixxx/pull/12976)
   [#12975](https://github.com/mixxxdj/mixxx/issues/12975)
