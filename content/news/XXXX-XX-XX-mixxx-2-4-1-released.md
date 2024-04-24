@@ -12,7 +12,7 @@ came with 2.4.
 
 
 ####What happened?
-Before listing the details, I would like to share some memorable moments I could follow in the Zulip-chat that are significant for the atmosphere and
+Before listing the details, I would like to share some memorable moments I could follow in the [Zulip](https://mixxx.zulipchat.com/login/)-chat that are significant for the atmosphere and
 motivation of the Mixxx-team:
 
 #####Not giving up...
@@ -29,6 +29,7 @@ After some writing, testing, rewriting ... he created a feature I couldn't miss 
 in a song you can see the remaining time (or # beats) until this point in the waveform. Once a DJ has used this feature, she/he/they can't without it.
 This feature will be available in the 2.5
 ######Shout out to m!
+
 
 ####What's going on in the Mixxx-team?
 * At the moment some people are trying to get Mixxx ready for stem-files, stem-files are a new multi-channel format of audio files with which DJ's can 'remix' the song on-the-fly.
@@ -52,9 +53,8 @@ We do are available to get you started.
 [Translators Wanted](https://mixxx.org/get-involved/#translators)
 
 
-You can download the new release from the [Download](https://mixxx.org/download/) page. 
-
 ####What's new / What's changed / What's corrected in 2.4.1
+You can download the new release from the [Download](https://mixxx.org/download/) page. 
 
 #####Controller Mappings
 * Behringer DDM4000 & BCR2000: Fix exception in JS code
