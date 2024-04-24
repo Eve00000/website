@@ -7,13 +7,10 @@ status: draft
 Dear Mixxx-ers,
 
 The Mixxx-developingteam started the year with good intentions and therefore imposed itself some deadlines. That is why only two months after version 2.4, 
-
 the next release: version 2.4.1 can be offered. This isn't just a service release fixing some minor bugs and problems, version 2.4.1 contains some nice
-
 features. Hiding them longer for you could possibly been seen as a crime.
 
 Before listing the details, I would like to share some memorable moments I could follow in the Zulip-chat that are significant for the atmosphere and
-
 motivation of the Mixxx-team:
 
 * Ten days ago a Mixxx-er posted a problem that he struggled with for over a year. He was unable to make a MIDI-connection between his Pioneer
@@ -41,22 +38,14 @@ What's going on in the Mixxx-team?
 
 No cure for the spreading Mixxx-virus, you 're all invited to join the Mixxx-team. 
 
-
 I want to take the opportunity to make an appeal to all Mixxx-ers:
-
 As we try to explain the Mixxx-features in an optimal way and try to give the best possible support to every user, not everyone understands the English 
-
 language as well as others. Especially when the language contains technical terms it can get confusing for not native speakers.
-
 If you understand the English manual well and you notice missing translations in your own language, please take the time to translate a/some part(s).
-
 It needs a little effort in the beginning, but you can make a huge difference for other users.
-
 We do are available to get you started.
 
- 
 You can download the new release from the [Download](https://mixxx.org/download/) page. 
-
 The test release with new features will be available soon.
 
 
