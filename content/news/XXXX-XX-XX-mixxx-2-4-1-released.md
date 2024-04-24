@@ -4,7 +4,7 @@ tags: 2.4, 2.4.1, release announcement
 comments: yes
 status: draft
 
-Dear Mixxx-ers,
+#####Dear Mixxx-ers,
 
 The Mixxx-developingteam started the year with good intentions and therefore imposed itself some deadlines. That is why only two months after version 2.4, 
 the next release: version 2.4.1 can be offered. In between versions with new features this version delivers some solutions for minor bugs and problems that 
