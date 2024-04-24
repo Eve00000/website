@@ -15,14 +15,16 @@ came with 2.4.
 Before listing the details, I would like to share some memorable moments I could follow in the Zulip-chat that are significant for the atmosphere and
 motivation of the Mixxx-team:
 
-* Ten days ago a Mixxx-er posted a problem that he struggled with for over a year. He was unable to make a MIDI-connection between his Pioneer
+#####Don't give up, you'll find it...
+Ten days ago a Mixxx-er posted a problem that he struggled with for over a year. He was unable to make a MIDI-connection between his Pioneer
 DJM-750MK2 Mixer with Mixxx and then activate the DVS (Digital Vinyl System) to work with Mixxx's Vinyl Control. A Mixxx-developer took the challenge and
 during 2 weeks you could see the messages flying over: log-files, screenshots, debugging-info, tooltests, capturing communication, a new pull request...
 I think I've seen over 100 messages. Trying things, fail, one step forward, two steps back ... After two weeks the Mixxx-developer managed to get it fixed.
 All on distance, not having the hardware available, putting a lot of time in it. It was fantastic to be a witness of this magic.
 Shout out to N/S!
 
-* About three weeks ago a Mixxx-developer proposed a new feature: showing the remaining beats till the next cue point in the waveform.
+#####Wow!
+About three weeks ago a Mixxx-developer proposed a new feature: showing the remaining beats till the next cue point in the waveform.
 After some writing, testing, rewriting ... he created a feature I couldn't miss anymore. If you make a hotcue at eg. a climax or a loop or an intro start
 in a song you can see the remaining time (or # beats) until this point in the waveform. Once a DJ has used this feature, she/he/they can't without it.
 This feature will be available in the 2.5
