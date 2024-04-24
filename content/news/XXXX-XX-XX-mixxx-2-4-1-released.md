@@ -21,16 +21,14 @@ DJM-750MK2 Mixer with Mixxx and then activate the DVS (Digital Vinyl System) to 
 during 2 weeks you could see the messages flying over: log-files, screenshots, debugging-info, tooltests, capturing communication, a new pull request...
 I think I've seen over 100 messages. Trying things, fail, one step forward, two steps back ... After two weeks the Mixxx-developer managed to get it fixed.
 All on distance, not having the hardware available, putting a lot of time in it. It was fantastic to be a witness of this magic.
-
-Shout out to N/S!
+######Shout out to N/S!
 
 #####Wow!
 About three weeks ago a Mixxx-developer proposed a new feature: showing the remaining beats till the next cue point in the waveform.
 After some writing, testing, rewriting ... he created a feature I couldn't miss anymore. If you make a hotcue at eg. a climax or a loop or an intro start
 in a song you can see the remaining time (or # beats) until this point in the waveform. Once a DJ has used this feature, she/he/they can't without it.
 This feature will be available in the 2.5
-
-Shout out to m!
+######Shout out to m!
 
 ####What's going on in the Mixxx-team?
 * At the moment some people are trying to get Mixxx ready for stem-files, stem-files are a new multi-channel format of audio files with which DJ's can 'remix'
