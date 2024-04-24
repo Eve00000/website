@@ -31,8 +31,7 @@ This feature will be available in the 2.5
 ######Shout out to m!
 
 ####What's going on in the Mixxx-team?
-* At the moment some people are trying to get Mixxx ready for stem-files, stem-files are a new multi-channel format of audio files with which DJ's can 'remix'
-* the song on-the-fly.
+* At the moment some people are trying to get Mixxx ready for stem-files, stem-files are a new multi-channel format of audio files with which DJ's can 'remix' the song on-the-fly.
 * A lot of people are improving controller-mappings to support more hardware with more features.
 * Research is ongoing to make Mixxx able to share it's database over lan.
 * There's someone very keen on giving Mixxx the ability for Spatial Audio.
