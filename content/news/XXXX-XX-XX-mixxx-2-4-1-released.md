@@ -43,7 +43,7 @@ Shout out to m!
 No cure for the spreading Mixxx-virus, you 're all invited to [join the Mixxx-team](https://mixxx.org/get-involved/).
 
 
-#####Appeal
+####Appeal
 I want to take the opportunity to make an appeal to all Mixxx-ers:
 As we try to explain the Mixxx-features in an optimal way and try to give the best possible support to every user, not everyone understands the English 
 language as well as others. Especially when the language contains technical terms it can get confusing for not native speakers.
