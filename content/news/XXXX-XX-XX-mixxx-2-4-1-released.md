@@ -54,7 +54,7 @@ We do are available to get you started.
 
 You can download the new release from the [Download](https://mixxx.org/download/) page. 
 
-####'what's new / what's changed / what's corrected' in 2.4.1
+####What's new / What's changed / What's corrected in 2.4.1
 
 #####Controller Mappings
 * Behringer DDM4000 & BCR2000: Fix exception in JS code
