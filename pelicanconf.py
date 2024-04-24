@@ -263,6 +263,12 @@ AUTHOR_METADATA = {
         "email": "m0dB@mixxx.org",
         "tagline": "Mixxx Core Developer",
     },
+    "Evelynne Veys": {
+        "github": "Eve00000",
+        "discourse": "Eve",
+        "email": "Evelynne@protonmail.com",
+        "tagline": "Enthusiastic Mixxx-er",
+    },    
 }
 
 # Needed for Jinja2 markdown filter
