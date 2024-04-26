@@ -33,24 +33,25 @@ You can download the new release from the [Download](https://mixxx.org/download/
   [#13145](https://github.com/mixxxdj/mixxx/pull/13145)
 * Traktor S3: Fix mapping crash on macOS
   [#12840](https://github.com/mixxxdj/mixxx/pull/12840)
-* Behringer DDM4000 & BCR2000: Fix exception in JS code
-  [#12969](https://github.com/mixxxdj/mixxx/pull/12969)
-* Denon DJ MC7000: Fix redundant argument and migrate to `hotcue_x_status`
-  [#13113](https://github.com/mixxxdj/mixxx/pull/13113)
-  [#13121](https://github.com/mixxxdj/mixxx/pull/13121)
-* Polish fx chain controls
-  [#12805](https://github.com/mixxxdj/mixxx/pull/12805)
 * Controller I/O table: sort action column by display string
   [#13039](https://github.com/mixxxdj/mixxx/pull/13039)
 
 #####Target Support
+* Fix various minor build issues
+  [#12853](https://github.com/mixxxdj/mixxx/pull/12853)
+  [#12847](https://github.com/mixxxdj/mixxx/pull/12847)
+  [#12822](https://github.com/mixxxdj/mixxx/pull/12822)
+  [#12892](https://github.com/mixxxdj/mixxx/pull/12892)
+  [#13079](https://github.com/mixxxdj/mixxx/pull/13079)
+  [#12989](https://github.com/mixxxdj/mixxx/pull/12989)
+* CMakeLists: Always prefer OpenGL framework on macOS
+  [#13080](https://github.com/mixxxdj/mixxx/pull/13080)
+
+#####Skins
 * Deere: make sampler rows persist
   [#12928](https://github.com/mixxxdj/mixxx/pull/12928)
 * Tango: Remove unneeded waveform Singleton
   [#12938](https://github.com/mixxxdj/mixxx/pull/12938)
-* Prevent possible crash in customs skins using parallel waveforms
-  [#13043](https://github.com/mixxxdj/mixxx/pull/13043)
-  [#12580](https://github.com/mixxxdj/mixxx/issues/12580)
 * Prevent possible crash in customs skins using parallel waveforms
   [#13043](https://github.com/mixxxdj/mixxx/pull/13043)
   [#12580](https://github.com/mixxxdj/mixxx/issues/12580)
@@ -65,6 +66,26 @@ You can download the new release from the [Download](https://mixxx.org/download/
   [#12805](https://github.com/mixxxdj/mixxx/pull/12805)
 
 #####Library
+* Sidebar: show track count and duration of History playlists
+  [#12811](https://github.com/mixxxdj/mixxx/pull/12811)
+  [#13020](https://github.com/mixxxdj/mixxx/pull/13020)
+  [#13019](https://github.com/mixxxdj/mixxx/issues/13019)
+  [#12788](https://github.com/mixxxdj/mixxx/issues/12788)
+  [#12880](https://github.com/mixxxdj/mixxx/issues/12880)
+  [#12882](https://github.com/mixxxdj/mixxx/pull/12882)
+* Computer feature: update removable devices on Linux
+  [#12893](https://github.com/mixxxdj/mixxx/pull/12893)
+  [#12891](https://github.com/mixxxdj/mixxx/issues/12891)
+* Playlists: Prevent removing tracks from locked playlists
+  [#12927](https://github.com/mixxxdj/mixxx/pull/12927)
+* History feature: Fix removing deleted tracks after export
+  [#13016](https://github.com/mixxxdj/mixxx/pull/13016)
+  [#13000](https://github.com/mixxxdj/mixxx/issues/13000)
+* BPM display uses decimal separator of selected locale
+  [#13067](https://github.com/mixxxdj/mixxx/pull/13067)
+  [#13051](https://github.com/mixxxdj/mixxx/issues/13051)
+* Fix relink directory when migrate between Linux/macOS and Windows
+  [#12878](https://github.com/mixxxdj/mixxx/pull/12878)
 * Allow adding new directories while watched directories are missing
   [#12937](https://github.com/mixxxdj/mixxx/pull/12937)
   [#10481](https://github.com/mixxxdj/mixxx/issues/10481)
@@ -83,12 +104,21 @@ You can download the new release from the [Download](https://mixxx.org/download/
   [#11901](https://github.com/mixxxdj/mixxx/pull/11901)
 
 #####Miscellaneous
+* Remove unnecessary unpolish operation of the style, before polish the new style
+  [#12445](https://github.com/mixxxdj/mixxx/pull/12445)
+* Developer Tools: Initially sort controls by group name, ascending
+  [#12884](https://github.com/mixxxdj/mixxx/pull/12884)
+* Waveforms: Fix scratching crossing loop boundaries
+  [#13007](https://github.com/mixxxdj/mixxx/pull/13007)
+* Prohibit un-replace when deck is playing
+  [#13023](https://github.com/mixxxdj/mixxx/pull/13023)
+  [#12906](https://github.com/mixxxdj/mixxx/issues/12906)
+* Track Properties dialog: Prevent wiping metadata when applying twice quickly
+  [#12965](https://github.com/mixxxdj/mixxx/pull/12965)
+  [#12963](https://github.com/mixxxdj/mixxx/issues/12963)
 * AutoDJ: Fix button state after error message about playing deck 3/4
   [#12976](https://github.com/mixxxdj/mixxx/pull/12976)
   [#12975](https://github.com/mixxxdj/mixxx/issues/12975)
-* Tagfetcher: Cache fetched covers
-  [#12301](https://github.com/mixxxdj/mixxx/pull/12301)
-  [#11084](https://github.com/mixxxdj/mixxx/issues/11084)
 * Tagfetcher: Cache fetched covers
   [#12301](https://github.com/mixxxdj/mixxx/pull/12301)
   [#11084](https://github.com/mixxxdj/mixxx/issues/11084)
