@@ -115,8 +115,7 @@ I think I've seen over 100 messages.
 Trying things, fail, one step forward, two steps back ...
 After two weeks the Mixxx developer managed to get it fixed.
 All from a distance, not having the hardware available, putting a lot of time in it.
-It was fantastic to be a witness of this magic.
-
+It was fantastic to be a witness of this magic.  
 *Shout out to [Niko/Swiftb0y](https://mixxx.org/news/author/nikolaus-einhauser/) !*
 
 
@@ -125,8 +124,7 @@ About three weeks ago a Mixxx developer proposed a new feature: showing the rema
 After some writing, testing, rewriting ... he created a feature I couldn't do without anymore.
 If you make a hotcue at eg. a climax, or a loop, or an intro start in a song, you can see the remaining time (or number beats) until this point in the waveform.
 Once a DJ has used this feature, they can't live without it.
-This feature will be available in the next stable version 2.5
-
+This feature will be available in the next stable version 2.5  
 *Shout out to [m0dB](https://github.com/m0dB) !*
 
 
