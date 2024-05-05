@@ -158,7 +158,6 @@ This feature will be available in the next stable version 2.5
 *Shout out to [m0dB](https://github.com/m0dB) !*
 
 
-
 ####What's going on in the Mixxx team?
 * At the moment some people are trying to get Mixxx ready for stems. Stems are a new multi-channel format of audio files with which DJ's can 'remix' the song on-the-fly.
 * A lot of people are improving controller-mappings to support more hardware with more features.
@@ -192,7 +191,7 @@ In the late 90's I got involved with BPM Studio, a superb but dated program. Dat
 Soundquality was and is very important for me, the term audiophile describes me very well, so I don't want to make a compromise in the audioquality.
 Believe me, in the 90's, early 00's harddrivespace wasn't that obvious and WAV-files took a lot of space.
 
-BPM development stopped about ten years ago and Traktor worked fine for me until a couple of years ago. 
+BPM development stopped about ten years ago and Traktor worked fine for me until a couple of years ago.
 I could no longer trust and rely on Traktor for live gigs and I rediscovered Mixxx, with the versions 2.3.5/6 a big step was made.
 
 I found a controller-mapping file (+10 years old) for my denon HC4500 that worked fine.
