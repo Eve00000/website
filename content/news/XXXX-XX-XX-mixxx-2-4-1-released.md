@@ -4,17 +4,18 @@ tags: 2.4, 2.4.1, release announcement
 comments: yes
 status: draft
 
-####Dear Mixxx-ers,
+#### Dear Mixxx-ers
 
 The Mixxx developers started the year with good intentions and therefore imposed some deadlines on themselves.
 That is why only two months after version 2.4, version 2.4.1 has been released.
 This version delivers solutions for minor bugs and issues that came with 2.4.
 
+#### What's new / What's changed / What's corrected in 2.4.1
 
-####What's new / What's changed / What's corrected in 2.4.1
 You can download the new release from the [Download](https://mixxx.org/download/) page, the list of changes can be found in the [ChangeLog](https://github.com/mixxxdj/mixxx/blob/2.4.1/CHANGELOG.md)
 
-#####Controller Mappings
+##### Controller Mappings
+
 * Behringer DDM4000 & BCR2000: Fix exception in JS code
   [#12969](https://github.com/mixxxdj/mixxx/pull/12969)
 * Denon DJ MC6000MK2: Fix mapping of filter knob/button
@@ -36,7 +37,8 @@ You can download the new release from the [Download](https://mixxx.org/download/
 * Controller I/O table: sort action column by display string
   [#13039](https://github.com/mixxxdj/mixxx/pull/13039)
 
-#####Target Support
+##### Target Support
+
 * Fix various minor build issues
   [#12853](https://github.com/mixxxdj/mixxx/pull/12853)
   [#12847](https://github.com/mixxxdj/mixxx/pull/12847)
@@ -47,7 +49,8 @@ You can download the new release from the [Download](https://mixxx.org/download/
 * CMakeLists: Always prefer OpenGL framework on macOS
   [#13080](https://github.com/mixxxdj/mixxx/pull/13080)
 
-#####Skins
+##### Skins
+
 * Deere: make sampler rows persist
   [#12928](https://github.com/mixxxdj/mixxx/pull/12928)
 * Tango: Remove unneeded waveform Singleton
@@ -65,7 +68,8 @@ You can download the new release from the [Download](https://mixxx.org/download/
 * Polish fx chain controls
   [#12805](https://github.com/mixxxdj/mixxx/pull/12805)
 
-#####Library
+##### Library
+
 * Sidebar: show track count and duration of History playlists
   [#12811](https://github.com/mixxxdj/mixxx/pull/12811)
   [#13020](https://github.com/mixxxdj/mixxx/pull/13020)
@@ -103,7 +107,8 @@ You can download the new release from the [Download](https://mixxx.org/download/
 * Library track menu: show Hide action also in Playlist & Crates
   [#11901](https://github.com/mixxxdj/mixxx/pull/11901)
 
-#####Miscellaneous
+##### Miscellaneous
+
 * Remove unnecessary unpolish operation of the style, before polish the new style
   [#12445](https://github.com/mixxxdj/mixxx/pull/12445)
 * Developer Tools: Initially sort controls by group name, ascending
@@ -133,11 +138,12 @@ You can download the new release from the [Download](https://mixxx.org/download/
   [#10880](https://github.com/mixxxdj/mixxx/issues/10880)
   [#13154](https://github.com/mixxxdj/mixxx/pull/13154)
 
+#### What happened?
 
-####What happened?
 I would like to share some memorable moments from the [Zulip](https://mixxx.zulipchat.com/login/)-chat that are significant for the atmosphere and motivation of the Mixxx team:
 
-#####Not giving up...
+##### Not giving up...
+
 Ten days ago a Mixxx-er posted a problem that he struggled with for over a year.
 He was unable to make a MIDI-connection between his Pioneer DJM-750MK2 Mixer with Mixxx and then activate the DVS (Digital Vinyl System) to work with Mixxx's Vinyl Control.
 A Mixxx developer took the challenge and during 2 weeks you could see the messages flying over: log-files, screenshots, debugging-info, tooltests, capturing communication, a new pull request...
@@ -148,8 +154,8 @@ All from a distance, not having the hardware available, putting a lot of time in
 It was fantastic to be a witness of this magic.  
 *Shout out to [Niko/Swiftb0y](https://mixxx.org/news/author/nikolaus-einhauser/) !*
 
+##### Wow!
 
-#####Wow!
 About three weeks ago a Mixxx developer proposed a new feature: showing the remaining beats till the next cue point in the waveform.
 After some writing, testing, rewriting ... he created a feature I couldn't do without anymore.
 If you make a hotcue at eg. a climax, or a loop, or an intro start in a song, you can see the remaining time (or number beats) until this point in the waveform.
@@ -157,8 +163,8 @@ Once a DJ has used this feature, they can't live without it.
 This feature will be available in the next stable version 2.5  
 *Shout out to [m0dB](https://github.com/m0dB) !*
 
+#### What's going on in the Mixxx team?
 
-####What's going on in the Mixxx team?
 * At the moment some people are trying to get Mixxx ready for stems. Stems are a new multi-channel format of audio files with which DJ's can 'remix' the song on-the-fly.
 * A lot of people are improving controller-mappings to support more hardware with more features.
 * Research is ongoing to make Mixxx able to share its database over a network.
@@ -169,8 +175,8 @@ This feature will be available in the next stable version 2.5
 
 There is no cure for the spreading Mixxx-virus, everyone is invited to [join the Mixxx team](https://mixxx.org/get-involved/).
 
+#### Appeal
 
-####Appeal
 I want to take the opportunity to make an appeal to all Mixxx-ers:
 As we try to explain Mixxx's features in an optimal way and try to give the best possible support to every user, not everyone understands the English language as well as others.
 Especially when the language contains technical terms it can get confusing for not native speakers.
@@ -179,26 +185,26 @@ It needs a little effort in the beginning, but you can make a huge difference fo
 We are available to get you started.
 [Translators Wanted](https://mixxx.org/get-involved/#translators)
 
+#### Who's writing this?
 
-####Who's writing this?  
 Music was my first love and it will be my last.
 I like music, from Aaliyah to ZZ Top, from A Capella and Classical Aria's to Zouk, as long as it has a soul.
 Since I was very young I discovered the power of music, it can strengthen or change emotions.
-When I was thirteen (in the 80's) I started making my own radioshow for myself, playing discs I found in my fathers (huge) collection.
+When I was thirteen (in the 80's) I started making my own radio show for myself, playing discs I found in my fathers (huge) collection.
 A family party started my DJ-career, I felt the joy of sharing music, making people happy with it, make them want to dance.
 
 In the late 90's I got involved with BPM Studio, a superb but dated program. Dated because it was only compatible with MP3 and WAV.
-Soundquality was and is very important for me, the term audiophile describes me very well, so I don't want to make a compromise in the audioquality.
-Believe me, in the 90's, early 00's harddrivespace wasn't that obvious and WAV-files took a lot of space.
+Soundquality was and is very important for me, the term audiophile describes me very well, so I don't want to make a compromise in the audio quality.
+Believe me, in the 90's, early 00's harddrive space wasn't that obvious and WAV-files took a lot of space.
 
 BPM development stopped about ten years ago and Traktor worked fine for me until a couple of years ago.
 I could no longer trust and rely on Traktor for live gigs and I rediscovered Mixxx, with the versions 2.3.5/6 a big step was made.
 
-I found a controller-mapping file (+10 years old) for my denon HC4500 that worked fine.
-My first test: Auto-DJ (autopilot in traktor)
+I found a controller-mapping file (+10 years old) for my Denon HC4500 that worked fine.
+My first test: Auto-DJ (autopilot in Traktor)
 The software must be able to play music for days without an error = test of hardware and software.
 Mixxx passed the test gloriously.
-So started playing around with Mixxx, I started importing my live-library, playlists, crates and history, found some minor bugs which I discussed on the forum and in bugreport.
+So started playing around with Mixxx, I started importing my live-library, playlists, crates and history, found some minor bugs which I discussed on the forum and in bugreports.
 
 I got more and more interested.
 I found some translation problems so I offered to make the Dutch translate of the Mixxx-application.
