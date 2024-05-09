@@ -7,7 +7,7 @@ status: draft
 #### Dear Mixxx-ers
 
 The Mixxx developers started the year with good intentions and therefore imposed some deadlines on themselves.
-That is why only two months after version 2.4, version 2.4.1 has been released.
+That is why only three months after version 2.4, version 2.4.1 has been released.
 This version delivers solutions for minor bugs and issues that came with 2.4.
 
 #### What's new / What's changed / What's corrected in 2.4.1
