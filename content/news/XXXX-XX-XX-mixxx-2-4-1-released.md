@@ -206,4 +206,3 @@ Meanwhile I started diving and swimming in the code to tweak some minor things, 
 To give something back to the Mixxx-community I answered questions about little problems in the forum, I translated the manual and I offered to write this announcement that became a sort of testimony.
 
 And that all in about 12 weeks since I did the Auto DJ test.
-

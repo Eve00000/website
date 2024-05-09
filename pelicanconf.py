@@ -268,7 +268,7 @@ AUTHOR_METADATA = {
         "discourse": "Eve",
         "email": "Evelynne@protonmail.com",
         "tagline": "Enthusiastic Mixxx-er",
-    },    
+    },
 }
 
 # Needed for Jinja2 markdown filter
