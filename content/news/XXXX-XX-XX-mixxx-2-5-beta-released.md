@@ -25,7 +25,6 @@ In Mixxx we trust.
 * In version 2.5 Mixxx steps up from QT 5 to QT 6 [QT-website](https://www.qt.io/product/qt6).
 * Important for all controller mapping contributors: the introduction of the new handling of controller-mappings. Please give us feedback.
 
-
 #### What's new / What's changed / What's corrected in 2.5 beta
 
 You can download the new release from the [Download](https://mixxx.org/download/) page, the list of changes can be found in the [ChangeLog](https://github.com/mixxxdj/mixxx/blob/2.5/CHANGELOG.md)
@@ -344,7 +343,7 @@ You can download the new release from the [Download](https://mixxx.org/download/
   [#12952](https://github.com/mixxxdj/mixxx/pull/12952)
 * ScreenSaverHelper: Add no-op implementation for WASM
   [#12930](https://github.com/mixxxdj/mixxx/pull/12930)
-* SSE: Check !defined(__EMSCRIPTEN__) where intrinsics are unavailable on WASM
+* SSE: Check !defined(EMSCRIPTEN) where intrinsics are unavailable on WASM
   [#12917](https://github.com/mixxxdj/mixxx/pull/12917)
 
 ##### Target support
@@ -376,7 +375,7 @@ You can download the new release from the [Download](https://mixxx.org/download/
   [#11883](https://github.com/mixxxdj/mixxx/pull/11883)
 * ci: Enable WARNINGS_FATAL on macOS, too
   [#11905](https://github.com/mixxxdj/mixxx/pull/11905)
-* Refactor timers 
+* Refactor timers
   [#11807](https://github.com/mixxxdj/mixxx/pull/11905) 2nd try
   [#11850](https://github.com/mixxxdj/mixxx/pull/11850)
 * Use mixxx::audio::ChannelCount type instead of int/unsigned char/etc.
