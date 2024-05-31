@@ -452,8 +452,8 @@ You can download the new release from the [Download](https://mixxx.org/download/
   [#13155](https://github.com/mixxxdj/mixxx/pull/13155)
 * GitHub actions updates
   [#11544](https://github.com/mixxxdj/mixxx/pull/11544)
-  [#11508](https://github.com/mixxxdj/mixxx/pull/11508) 
-  [#11487](https://github.com/mixxxdj/mixxx/pull11487/) 
+  [#11508](https://github.com/mixxxdj/mixxx/pull/11508)
+  [#11487](https://github.com/mixxxdj/mixxx/pull11487/)
   [#11438](https://github.com/mixxxdj/mixxx/pull/11438)
   [#11410](https://github.com/mixxxdj/mixxx/pull/11410)
   [#11560](https://github.com/mixxxdj/mixxx/pull/11560)
