@@ -178,7 +178,7 @@ AUTHOR_METADATA = {
         "github": "Be-ing",
         "discourse": "Be0",
         "email": "be@mixxx.org",
-        "tagline": "Mixxx Core Developer",
+        "tagline": "Former Mixxx Core Developer",
     },
     "Albert Santoni": {
         "github": "asantoni",
@@ -210,7 +210,7 @@ AUTHOR_METADATA = {
     "Uwe Klotz": {
         "github": "uklotzde",
         "discourse": "tapir",
-        "tagline": "Mixxx Core Developer",
+        "tagline": "Former Mixxx Core Developer",
     },
     "April M. Crehan": {
         "github": "ThisGrrrlFriday",
