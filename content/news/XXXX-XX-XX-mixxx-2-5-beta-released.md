@@ -6,8 +6,8 @@ status: draft
 
 #### Dear Mixxx-ers
 
-Funny things happen in spring, birds start nesting and lay eggs, and so did the Mixxx developers. 
-A bit late for Easter but it is a magnificent giant gift filled with smaller gifts: Mixxx 2.5 beta! 
+Funny things happen in spring, birds start nesting and lay eggs, and so did the Mixxx developers.
+A bit late for Easter but it is a magnificent giant gift filled with smaller gifts: Mixxx 2.5 beta!
 You can find the details about the new version below.
 
 #### Appeal
@@ -15,7 +15,7 @@ You can find the details about the new version below.
 Before releasing 2.5 as the next stable release we need it to be tested thoroughly, something we can't do on our own.
 After some time looking at the same release and searching for solutions we might forget miner bugs or problems.
 That's why we need **YOU** to help us. The more people testing this Beta and reporting eventual bugs to the [bugtracker](https://github.com/mixxxdj/mixxx/issues), the faster the beta can be promoted to stable.
-In case you're scared of messing up your neetly configured PC and loosing your holy data is your Haloween-nightmare, read the new wiki article [safeguard your Mixxx Data](https://github.com/mixxxdj/mixxx/wiki).
+In case you're scared of messing up your neetly configured PC and losing your holy data is your Haloween-nightmare, read the new wiki article [safeguard your Mixxx Data](https://github.com/mixxxdj/mixxx/wiki).
 It explains about making a timestamp-image, backing up your data, tips and tricks.
 Please [join the Mixxx team](https://mixxx.org/get-involved/).
 In Mixxx we trust.
@@ -42,10 +42,10 @@ You can download the new release from the [Download](https://mixxx.org/download/
   [#11329](https://github.com/mixxxdj/mixxx/pull/11329)
 * Fullscreen toggle rework
   [#11566](https://github.com/mixxxdj/mixxx/pull/11566)
-* Playlists: Update of playlist labels after adding tracks 
+* Playlists: Update of playlist labels after adding tracks
   [#12866](https://github.com/mixxxdj/mixxx/pull/12866)
   [#12761](https://github.com/mixxxdj/mixxx/pull/12761)
-* Tracks: Custom text color for played tracks (qss) 
+* Tracks: Custom text color for played tracks (qss)
   [#12744](https://github.com/mixxxdj/mixxx/pull/12744)
   [#5911](https://github.com/mixxxdj/mixxx/pull/5911)
   [#12912](https://github.com/mixxxdj/mixxx/pull/12912)
