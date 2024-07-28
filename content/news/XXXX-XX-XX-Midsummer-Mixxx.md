@@ -23,7 +23,14 @@ While your enjoying a wel deserved vacation the Mixxx team is preparing new feat
 Not all new features are already for bundling in an official release but you can find everything about them in the partie venues. 
 
 The new visual aids for key and bpm will be astonishing, it needed quite some adaptations but the project is in pole position for gold.
+
 The color integration will give you intuitive directions of matching tracks for harmonic mixing, also for people who suffer off color-blindness.
+Soon you wil be able to discover a 'heat column' in the library which will give you hints on strack that are compatible with the current playing track,
+based on the Key and BPM. And BPM coloring will be added to show tracks with a BPM close to the current tempo.
+This will be our first step in Intelligent Assistance, it can inspire you to make surprising Mixxx-es with tracks that slipped your mind.
+And these features will later be used later for some QOL features, like an improved suggestions algorithm, search ranking based on similarity,
+and adding key color ticks on the rate sliders.
+Fill the floors!
 
 Our marathon stem project is fantastic, a tip of the veil:
 Playing with stems changes the whole idea of DJ-ing. If stems are new for you I would like to invite you to do some research. 
@@ -48,6 +55,7 @@ DJ-ing with stems is a gamechanger, it takes away limitations, gives your creati
 A hint: controlling stems with the mouse is rather difficult, some controllers are already stems-ready which means they incormporated
 volume encoders and mute buttons for the different stem tracks. But don't throw away you're valuable controller. 
 I have experimented successfull creating a OSC midi controller to control stems (and samplers) from a tablet, when finished the files will be available.
+Or you can start looking for an extra midi-controller that has enough encoders to control the volume and mute buttons of the stems (advice: 4 encoders, 4 mute buttons maybe encoders for the effect on the stem-track and buttons to select the deck).
 
 If you're waiting for an official release with stem support, you'll have to be more patient.
 
