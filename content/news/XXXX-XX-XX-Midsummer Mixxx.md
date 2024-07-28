@@ -48,6 +48,7 @@ DJ-ing with stems is a gamechanger, it takes away limitations, gives your creati
 A hint: controlling stems with the mouse is rather difficult, some controllers are already stems-ready which means they incormporated
 volume encoders and mute buttons for the different stem tracks. But don't throw away you're valuable controller.
 I have experimented successful creating a OSC midi controller to control stems (and samplers) from a tablet, when finished the files will be available.
+Or you can also choose to add an extra controller with a combination of encoders and buttons to control the stems.
 
 If you're waiting for an official release with stem support, you'll have to be more patient.
 
