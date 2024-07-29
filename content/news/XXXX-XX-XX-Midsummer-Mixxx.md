@@ -19,7 +19,7 @@ With your feedback on the 2.5 beta version the coding team is on track for gold,
 
 #### I'm going on a holiday and …
 
-While your enjoying a well deserved vacation the Mixxx team is preparing new features.
+While you're enjoying a well deserved vacation the Mixxx team is preparing new features.
 Not all new features are already for bundling in an official release but you can find everything about them in the partie venues. 
 
 The new visual aids for key and bpm will be astonishing, it needed quite some adaptations but the project is in pole position for gold.
