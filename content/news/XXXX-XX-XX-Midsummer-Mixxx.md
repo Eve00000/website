@@ -17,7 +17,7 @@ A lot of new contributors found their way to our mapping parties on the discours
 and the development zulip dancehall. You are all welcome and we'd like to thank you for all kind of input.
 With your feedback on the 2.5 beta version the coding team is on track for gold, the bugs and errors teams are already defeated.
 
-#### I'm going on a holiday and ..
+#### I'm going on a holiday and …
 
 While your enjoying a well deserved vacation the Mixxx team is preparing new features.
 Not all new features are already for bundling in an official release but you can find everything about them in the partie venues. 
