@@ -34,7 +34,7 @@ Fill the floors!
 
 Our marathon stem project is fantastic, a tip of the veil:
 Playing with stems changes the whole idea of DJ-ing. If stems are new for you I would like to invite you to do some research. 
-In brief: stems are regular music files that are separated in 4 stem-tracks with the aid of AI.
+In brief: stems are regular music files that are separated in 4 stem-tracks by the original producer or with the aid of AI.
 Mostly those tracks are drums / bass / other (synths, guitar) and vocals. Together with the original track are those 4 new tracks
 combined in a new container, a *.Stem.MP4 or *.Stem.M4A file, lossy or lossless (depends also on source).
 While other DJ software will only support lossy stem files, we choose to support both.
