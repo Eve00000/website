@@ -32,7 +32,7 @@ And these features will later be used later for some QOL features, like an impro
 and adding key color ticks on the rate sliders.
 Fill the floors!
 
-Our marathon stem project is fantastic, a tip of the veil:
+Our marathon stem project is fantastic, a peek behind the curtain:
 Playing with stems changes the whole idea of DJ-ing. If stems are new for you I would like to invite you to do some research. 
 In brief: stems are regular music files that are separated in 4 stem-tracks by the original producer or with the aid of AI.
 Mostly those tracks are drums / bass / other (synths, guitar) and vocals. Together with the original track are those 4 new tracks
