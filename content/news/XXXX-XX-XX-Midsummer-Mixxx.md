@@ -61,5 +61,5 @@ If you're waiting for an official release with stem support, you'll have to be m
 
 #### Ceremonie protocollaire
 
-A golden medal will be awarded to everynone who contributes to Mixxx.
+A golden medal will be awarded to everyone who contributes to Mixxx.
 Have a crazy Mixxxy summer.
