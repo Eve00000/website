@@ -42,7 +42,7 @@ These combined files can be 'remixed' on the fly, with other words: the volume o
 a track can also be muted e.g. if you mute all tracks except the vocals you are actually playing an a capella.
 
 Without stems you need the beats to be synced, even if the intermediate beat would fit better to cover bass/drum sounds,
-you need to work hard with the eq's to camouflage bass left-overs. With stemms you can just completely hide the unwanted tracks.
+you need to work hard with the eq's to camouflage bass left-overs. With stems you can just completely hide the unwanted tracks.
 
 Remark: The quality of the stems is of course very important, a lot of stem creators are showing up everywhere. 
 Some need you to upload your original file, some can use your GPU, some use well trained AI models, others don't.
