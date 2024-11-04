@@ -32,7 +32,6 @@ joy, and unity.
 We cannot ignore the fact that while we are preparing a cozy indoor set or a crowded beachside party,
 for many people music and DJ-ing are a kind of unattainable luxury.
 
-
 #### What's in the 2.4.2-bag?
 
 Changelog bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla ....
