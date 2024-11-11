@@ -138,7 +138,7 @@ Problems that were solved:
 * Fix unnecessary painting with covers in library
   [#13715](https://github.com/mixxxdj/mixxx/pull/13715)
 
-Controller Mappings that needed an update: 
+Controller Mappings that needed an update:
 
 * Denon MC7000: Fix star up/down logic by only handling button down events
   [#13588](https://github.com/mixxxdj/mixxx/pull/13588)
