@@ -167,4 +167,3 @@ Controller Mappings that needed an update:
   [#12296](https://github.com/mixxxdj/mixxx/pull/12296)
 * Sony SIXAXIS: Fix mapping
   [#13319](https://github.com/mixxxdj/mixxx/pull/13319)
-  
