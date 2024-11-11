@@ -11,11 +11,6 @@ As the leaves fall and the first snowflakes start drifting down in the North, wh
 with summer sun, we are thrilled to finally release Mixxx 2.4.2! Finally because a bit later than planned, perfection
 can take some time. So we are proud to present you this release, a major bugfix-release for the 2.4 series before
 stepping over to a new number.
-
-we are thrilled to finally release Mixxx 2.4.2! Finally because a bit later than planned, we would like
-to apologize for the delay but we can't release a non-prefect version. This release is a major bugfix-release for the
-2.4 series before stepping over to a new number.
-This release covers a lot of issues reported by our users and contains updates for many controller-mappings.
 Don't be scared, development won't hibernate.
 
 #### Testing and translating
