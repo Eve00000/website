@@ -35,6 +35,7 @@ All new and shiny: [the complete changelog 2.4.2](https://github.com/mixxxdj/mix
 This new stable release can be downloaded from the [Download page](https://mixxx.org/download/).
 
 Problems that were solved:
+
 * Handle not supported files when dragging to waveforms and spinnies
   [#13208](https://github.com/mixxxdj/mixxx/pull/13208)
   [#13271](https://github.com/mixxxdj/mixxx/pull/13271)
@@ -137,7 +138,8 @@ Problems that were solved:
 * Fix unnecessary painting with covers in library
   [#13715](https://github.com/mixxxdj/mixxx/pull/13715)
 
-Controller Mappings that needed an update:
+Controller Mappings that needed an update: 
+
 * Denon MC7000: Fix star up/down logic by only handling button down events
   [#13588](https://github.com/mixxxdj/mixxx/pull/13588)
 * Korg Kaoss DJ: Update script
@@ -165,3 +167,4 @@ Controller Mappings that needed an update:
   [#12296](https://github.com/mixxxdj/mixxx/pull/12296)
 * Sony SIXAXIS: Fix mapping
   [#13319](https://github.com/mixxxdj/mixxx/pull/13319)
+  
