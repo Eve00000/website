@@ -141,32 +141,4 @@ Problems that were solved:
 * Fix unnecessary painting with covers in library
   [#13715](https://github.com/mixxxdj/mixxx/pull/13715)
 
-Controller Mappings that needed an update:
-
-* Denon MC7000: Fix star up/down logic by only handling button down events
-  [#13588](https://github.com/mixxxdj/mixxx/pull/13588)
-* Korg Kaoss DJ: Update script
-  [#12683](https://github.com/mixxxdj/mixxx/pull/12683)
-* MIDI for light: Fix unsound timer handling
-  [#13117](https://github.com/mixxxdj/mixxx/pull/13117)
-* Novation Dicer: Remove flanger mapping with quickeffect toggle
-  [#13196](https://github.com/mixxxdj/mixxx/pull/13196)
-  [#13134](https://github.com/mixxxdj/mixxx/issues/13134)
-* Novation Launchpad X: Fix detection on macOS
-  [#13691](https://github.com/mixxxdj/mixxx/pull/13691)
-  [#13633](https://github.com/mixxxdj/mixxx/issues/13633)
-* Numark PartyMix: Fix EQ (script binding) display name
-  [#13255](https://github.com/mixxxdj/mixxx/pull/13255)
-* Numark Scratch: Add initial mapping
-  [#4834](https://github.com/mixxxdj/mixxx/pull/4834)
-  [#13375](https://github.com/mixxxdj/mixxx/pull/13375)
-* Pioneer DDJ-400 and DDJ-FLX4: Remove tap beat mapping to resolve conflict with toggle quantize
-  [#13815](https://github.com/mixxxdj/mixxx/pull/13815)
-  [#13813](https://github.com/mixxxdj/mixxx/issues/13813)
-* Reloop Beatmix 2/4: Fix eject button and jog LED being lit on track unload
-  [#13601](https://github.com/mixxxdj/mixxx/pull/13601)
-  [#13605](https://github.com/mixxxdj/mixxx/pull/13605)
-* Reloop Mixage MK1, MK2, Controller Edition: Add initial mapping
-  [#12296](https://github.com/mixxxdj/mixxx/pull/12296)
-* Sony SIXAXIS: Fix mapping
-  [#13319](https://github.com/mixxxdj/mixxx/pull/13319)
+Updated Controller Mappings: Denon MC7000, Korg Kaoss DJ, Novation Dicer, Novation Launchpad X, Numark PartyMix and Scratch, Pioneer DDJ-400 and DDJ-FLX4, Reloop Beatmix 2/4, Mixage MK1 and MK2, Sony SIXAXIS
