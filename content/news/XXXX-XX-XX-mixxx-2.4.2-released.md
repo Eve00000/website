@@ -26,10 +26,11 @@ Everybody can contribute to Mixxx. Did you find an error on the website, an inco
 
 #### Treasure hunt
 
-When you dive in the code to add a feature or when you are looking for a function when want to customize a mapping,
-you can discover small little snippets, real pearls, the intensive work of someone to make a function smooth, to let a conversio
+When you dive into the code to add a feature or when you are looking for a function when you want to customize a mapping,
+you can discover small little snippets, real pearls, the intensive work of someone to make a function smoother, to let an algorithm
 work some milliseconds faster, to offer a conversion of a value to another without having to write it all over again.
-For all these little snippets, for all these forgotton pearls: thank you to all who ever contributed.
+For all these little snippets, for all these forgotten pearls: thank you to all who ever contributed.
+
 
 #### What's in the 2.4.2-bag?
 
