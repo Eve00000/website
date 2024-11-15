@@ -20,7 +20,8 @@ A special thank you to everyone who takes the time to test alpha and beta versio
 who propose features and improvements. Your feedback is invaluable.
 A lot of new users and contributors have joined our community the past months, we'd like to welcome them all, spin it up,
 your energy and fresh ideas have already left a mark.
-Everybody can contribute to Mixxx. Did you remark an error on the website, an incomplete subject in the manual, an error in translation?
+Everybody can contribute to Mixxx. Did you find an error on the website, an incomplete subject in the manual, an error in translation?
+
 [Contribute](https://mixxx.org/get-involved/).
 
 #### Treasure hunt
