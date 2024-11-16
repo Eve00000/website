@@ -16,7 +16,6 @@ Don't be scared, development won't hibernate.
 #### Testing and translating
 
 A special thank you to everyone who takes the time to test alpha and beta versions, to who report issues and proposes and to those
-
 who propose features and improvements. Your feedback is invaluable.
 A lot of new users and contributors have joined our community the past months, we'd like to welcome them all, spin it up,
 your energy and fresh ideas have already left a mark.
