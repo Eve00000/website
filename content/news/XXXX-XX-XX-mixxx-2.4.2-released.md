@@ -1,6 +1,6 @@
 title: Mixxx 2.4.2 Release Announcement
 authors: Evelynne Veys
-tags: update, 2.4.2
+tags: 2.4, 2.4.2, release announcement
 comments: yes
 status: draft
 
