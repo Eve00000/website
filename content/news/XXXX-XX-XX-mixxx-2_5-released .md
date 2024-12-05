@@ -23,13 +23,13 @@ For Ubunto versions earlier than 22.04 "Christmas Will Break Your Heart".
 
 Ho Ho Ho, our sleigh is filled with many shiny presents:
 
-* a red box filled with brand new waveform textures and features: 'SlipMode waveform' gives you visual aid
+* A red box filled with brand new waveform textures and features: 'SlipMode waveform' gives you visual aid
 while scratchin', the 'beats until next marker' helps you never missing the break, the GL ES support makes it
 run smooth and many more...
-* with a nice yellow bow around it, the new Skin & Interface features: the menubar can be hidden,
+* With a nice yellow bow around it, the new Skin & Interface features: the menubar can be hidden,
 reworked toggles (fullscreen, cue popup, vinyl control), improved tooltips, improved controls and checks (AutoDJ,
 effects), new command line interface options...
-* our engine became a V8 sleigh: undo function for BPM/beats, beatloop anchor, rate tap button...
+* Our engine became a V8 sleigh: undo function for BPM/beats, beatloop anchor, rate tap button...
 * "Rudolph, the Red-Nosed Reindeer" will sound much better with the compressor and glitch effects and the improved backend.
 * Your "Jingles" and "Bells" can be sorted and found easier with the new library features: Cut, Copy and Paste in tracklists,
 tracks can be moved with ALT+Up/Down/PgUp/PgDn, the searchengine received new BPM filters, an 'OR'-operator, new import possibilities,
