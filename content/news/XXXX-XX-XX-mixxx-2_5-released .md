@@ -18,7 +18,8 @@ Important: OS-Support.
 macOS versions earlier than 11 can have a "Last Christmas".
 Windows versions earlier than version 10 build 1809 can be "Driving home for Christmas".
 For Ubuntu versions earlier than 22.04 "Christmas Will Break Your Heart".
-Unfortunately support for all this version has been dropped for Mixxx 2.5 due to <insert explanation here>.
+By stepping over from QT5 to QT6.5 Mixxx has to respect the minimum system requirements stated by QT for the official builds.
+That's why the support has been dropped for macOS earlier than 11, Windows versions earlier then version 10 buikd 1889 and Ubuntu earlier then 22.04.
 
 #### Let's cheer for the elves
 
