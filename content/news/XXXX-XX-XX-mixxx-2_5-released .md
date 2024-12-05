@@ -9,7 +9,7 @@ status: draft
 Home alone? Scrooged? The sound of music? Die hard?
 Change plans: this year you will be having something better to do than watching old Christmas movies.
 Mixxx is now your secret "Santa comin' to town", our elves had "good hearts with the burning desire to work hard",
-to get you "Rockin' around the Christmas tree at the party hop" with "something mighty sweet to see'.
+to get you "Rockin' around the Christmas tree at the party hop" with "something mighty sweet to see".
 "For the present, look high, not low": Mixxx's "presents 'neath the tree"
 
 #### So this is the last goodbye ...
@@ -40,22 +40,22 @@ a new setting for 'first hotcue', multiple options can be selected in the MIDI i
 * Many "Days Of Christmas" full of improved Controller Mappings for Denon MC7000, Numark Scratch, Pioneer DDJ-FLX4, Traktor Kontrol S4 MK3 and MIDI for light.
 * A Controller Backend as a "Fairytale of New York" to map your controller: sysex, deck's track menu, support for bulk devices,
 drop of lodash dependency...
-* The experimental QML Skin is a ‘Player’s Ball’ by Outkast, an appetizer for the future GUI of Mixxx.
+* The experimental QML Skin is a "Player’s Ball", an appetizer for the future GUI of Mixxx.
 * QT5 will Be Home For Christmas because Mixxx is using [QT6](https://www.qt.io/product/qt6) now, a lot of work has been put
 in study, preparation, testing, upgrading procedures, adapting routines, dialogs, widgets, libraries.
 Upgrading to QT6 wasn't just sitting "underneath the Mistletoe" but now Mixxx is in "Winter Wonderland".
 "Thank you Santa" Developers!
-* "Feliz" iOs & WebAssembly : experiments are on-going to run Mixxx on iOs and in a Webbrowser.
+* "Feliz" iOs & WebAssembly: experiments are on-going to run Mixxx on iOs and in a Webbrowser.
 * So many rafactorings have been made, improvements of the code by progressive insight, because of new
 possibilities in c++ and QT, because of studies in acoustics, user experiences...
-The list is to long to write or make a selection here, it would be failing all contributors,
+The list is too long to write or make a selection here, it would be failing all contributors,
 you can find the complete list further in this announcement, full of "Christmas Lights"
 
 
 #### So this is Christmas
 
 "Baby, It's Cold Outside", so our present will be lots of fun exploring this new version.
-You'll need quiet some time to get use to all new features, discover the real possibilities,
+You'll need quiet some time to get used to all new features, discover the real possibilities,
 to get some adapted workflow with new handles.
 Mixxx whishes you a "Wonderful Christmas Time".
 
@@ -525,18 +525,4 @@ Mic drop, "Light the Candles All Around the World"
 
 ### Quoted Christmas songs
 
-All I want for Christmas (Mariah Carey) |
-Santa Clause is Coming to Town (fi Bruce Springsteen) |
-Rockin' Around the Christmas Tree (Brenda Lee) | Cheer for the Elves (Gwen Stefani) |
-Presents for Christmas (Solomon Burke) | Last Christmas (Wham) |
-Driving home for Christmas (Chris Rea) |
-Christmas Will Break Your Heart (LCD Soundsystem) |Christmas Present (Andy Williams) |
-Rudolph, the Red-Nosed Reindeer (Johnny Marks) | Jingle Bells (traditional) |
-Santa Tell Me’ (Ariana Grande) |
-8 Days Of Christmas (Destiny's Child) | Fairytale of New York (The Pogues & Kirsty MacColl) |
-Player’s Ball (Outkast) | I'll Be Home For Christmas (Bing Crosby) | underneath the Mistletoe (Kelly Clarkson) |
-Winter Wonderland (Bing Crosby) | Thank You Santa (Phineas and Ferb) | Feliz Navidad (José Feliciano) |
-Last Christmas (Wham) | Driving home for Christmas (Chbris Rea) | Christmas Lights (Coldplay) |
-So this is Christmas (John Lennon) | Baby, It's Cold Outside (Ella Fitzgerald & Louis Armstrong) |
-Wonderful Christmas Time (Paul McCartney) |
-Light the Candles All Around the World (traditional)
+All I want for Christmas (Mariah Carey) | Santa Clause is Coming to Town (fi Bruce Springsteen) | Rockin' Around the Christmas Tree (Brenda Lee) | Cheer for the Elves (Gwen Stefani) | Presents for Christmas (Solomon Burke) | Last Christmas (Wham) | Driving home for Christmas (Chris Rea) | Christmas Will Break Your Heart (LCD Soundsystem) | Christmas Present (Andy Williams) | Rudolph, the Red-Nosed Reindeer (Johnny Marks) | Jingle Bells (traditional) | Santa Tell Me’ (Ariana Grande) | 8 Days Of Christmas (Destiny's Child) | Fairytale of New York (The Pogues & Kirsty MacColl) | Player’s Ball (Outkast) | I'll Be Home For Christmas (Bing Crosby) | underneath the Mistletoe (Kelly Clarkson) | Winter Wonderland (Bing Crosby) | Thank You Santa (Phineas and Ferb) | Feliz Navidad (José Feliciano) | Christmas Lights (Coldplay) | So this is Christmas (John Lennon) | Baby, It's Cold Outside (Ella Fitzgerald & Louis Armstrong) | Wonderful Christmas Time (Paul McCartney) | Light the Candles All Around the World (traditional)
