@@ -17,7 +17,8 @@ to get you "Rockin' around the Christmas tree at the party hop" with "something 
 Important: OS-Support.
 macOS versions earlier than 11 can have a "Last Christmas".
 Windows versions earlier than version 10 build 1809 can be "Driving home for Christmas".
-For Ubunto versions earlier than 22.04 "Christmas Will Break Your Heart".
+For Ubuntu versions earlier than 22.04 "Christmas Will Break Your Heart".
+Unfortunately support for all this version has been dropped for Mixxx 2.5 due to <insert explanation here>. 
 
 #### Let's cheer for the elves
 
