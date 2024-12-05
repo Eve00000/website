@@ -7,13 +7,13 @@ status: draft
 
 #### All I want for DJ-ing is ...
 
-Home alone? Scrooged? The sound of music? Die hard? 
+Home alone? Scrooged? The sound of music? Die hard?
 Change plans: this year you will be having something better to do than watching old Christmas movies.
 Mixxx is now your secret "Santa comin' to town", our elves had "good hearts with the burning desire to work hard",
-to get you "Rockin' around the Christmas tree at the party hop" with "something mighty sweet to see'. 
-"For the present, look high, not low": Mixxx's "presents 'neath the tree" 
+to get you "Rockin' around the Christmas tree at the party hop" with "something mighty sweet to see'.
+"For the present, look high, not low": Mixxx's "presents 'neath the tree"
 
-#### So this is the last goodbye ... 
+#### So this is the last goodbye ...
 
 Important: OS-Support.
 macOS versions earlier than 11 can have a "Last Christmas",
@@ -22,13 +22,13 @@ For Ubunto versions earlier than 22.04 "Christmas Will Break Your Heart".
 
 #### Let's cheer for the elves
 
-Ho Ho Ho, our sleigh is filled with many shiny presents: 
+Ho Ho Ho, our sleigh is filled with many shiny presents:
 - a red box filled with brand new waveform textures and features: 'SlipMode waveform' gives you visual aid
-while scratchin', the 'beats untill next marker' helps you never missing the break, the GL ES support makes it 
+while scratchin', the 'beats until next marker' helps you never missing the break, the GL ES support makes it
 run smooth and many more...
 
 - with a nice yellow bow around it, the new Skin & Interface features: the menubar can be hidden,
-reworked toggles (fullscreen, cue popup, vinyl control), improved tooltips, improved controls and checks (AutoDJ, 
+reworked toggles (fullscreen, cue popup, vinyl control), improved tooltips, improved controls and checks (AutoDJ,
 effects), new command line interface options...
 
 - our engine became a V8 sleigh: undo function for BPM/beats, beatloop anchor, rate tap button...
@@ -36,8 +36,8 @@ effects), new command line interface options...
 - Rudolph, the Red-Nosed Reindeer will sound much better with the compressor and glitch effects and the improved backend.
 
 - Your Jingles and Bells can be sorted and found easier with the new library features: Cut, Copy and Paste in tracklists,
-tracks can be moved with ALT+Up/Down/PgUp/PgDn, the searchengine received new BPM fiters, an 'OR'-operator, new import possibilities,
-custom track colors for missin or played tracks ...
+tracks can be moved with ALT+Up/Down/PgUp/PgDn, the searchengine received new BPM filters, an 'OR'-operator, new import possibilities,
+custom track colors for missing or played tracks ...
 
 - Santa Tell Me’ what's new in preferences: some improved layout, the fetching of the soundcard's sample rate is fixed,
 a new setting for 'first hotcue', multiple options can be selected in the MIDI input editor...
@@ -50,23 +50,23 @@ drop of lodash dependency...
 - the experimental QML Skin is a ‘Player’s Ball’ by Outkast, an appetizer for the future GUI of Mixxx.
 
 - QT5 will Be Home For Christmas because Mixxx is using [QT6](https://www.qt.io/product/qt6) now, a lot of work has been put
-in study, preparation, testing, upgrading procedures, adapting routines, dialogs, widgets, libraries. 
+in study, preparation, testing, upgrading procedures, adapting routines, dialogs, widgets, libraries.
 Upgrading to QT6 wasn't just sitting "underneath the Mistletoe" but now Mixxx is in "Winter Wonderland".
-"Thank you Santa" Developpers!
+"Thank you Santa" Developers!
 
 - "Feliz" iOs & WebAssembly : experiments are on-going to run Mixxx on iOs and in a Webbrowser.
 
 - So many rafactorings have been made, improvements of the code by progressive insight, because of new
-possibilities in c++ and QT, because of studies in acoustics, user experiences... 
-The list is to long to write or make a selection here, it would be failing all contributors, 
+possibilities in c++ and QT, because of studies in acoustics, user experiences...
+The list is to long to write or make a selection here, it would be failing all contributors,
 you can find the complete list further in this announcement, full of "Christmas Lights"
 
 
 #### So this is Christmas
 
-"Baby, It's Cold Outside", so our present will be lots of fun exploring this new version. 
-You'll need quiet some time to get use to all new features, discover the real possibilities, 
-to get some adapted workflow with new handles. 
+"Baby, It's Cold Outside", so our present will be lots of fun exploring this new version.
+You'll need quiet some time to get use to all new features, discover the real possibilities,
+to get some adapted workflow with new handles.
 Mixxx whishes you a "Wonderful Christmas Time".
 
 Mic drop, "Light the Candles All Around the World"
@@ -533,8 +533,10 @@ Mic drop, "Light the Candles All Around the World"
   [#13595](https://github.com/mixxxdj/mixxx/pull/13595)
 
 
-Quoted Christmas songs:  All I want for Christmas (Mariah Carey) |
-Santa Claus is Coming to Town (fi Bruce Springsteen) |
+### Quoted Christmas songs
+
+All I want for Christmas (Mariah Carey) |
+Santa Clause is Coming to Town (fi Bruce Springsteen) |
 Rockin' Around the Christmas Tree (Brenda Lee) | Cheer for the Elves (Gwen Stefani) |
 Presents for Christmas (Solomon Burke) | Last Christmas (Wham) |
 Driving home for Christmas (Chris Rea) |
@@ -548,4 +550,3 @@ Last Christmas (Wham) | Driving home for Christmas (Chbris Rea) | Christmas Ligh
 So this is Christmas (John Lennon) | Baby, It's Cold Outside (Ella Fitzgerald & Louis Armstrong) |
 Wonderful Christmas Time (Paul McCartney) |
 Light the Candles All Around the World (traditional)
-
