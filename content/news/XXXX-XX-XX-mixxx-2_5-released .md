@@ -26,36 +26,25 @@ Ho Ho Ho, our sleigh is filled with many shiny presents:
 * a red box filled with brand new waveform textures and features: 'SlipMode waveform' gives you visual aid
 while scratchin', the 'beats until next marker' helps you never missing the break, the GL ES support makes it
 run smooth and many more...
-
 * with a nice yellow bow around it, the new Skin & Interface features: the menubar can be hidden,
 reworked toggles (fullscreen, cue popup, vinyl control), improved tooltips, improved controls and checks (AutoDJ,
 effects), new command line interface options...
-
 * our engine became a V8 sleigh: undo function for BPM/beats, beatloop anchor, rate tap button...
-
 * "Rudolph, the Red-Nosed Reindeer" will sound much better with the compressor and glitch effects and the improved backend.
-
 * Your "Jingles" and "Bells" can be sorted and found easier with the new library features: Cut, Copy and Paste in tracklists,
 tracks can be moved with ALT+Up/Down/PgUp/PgDn, the searchengine received new BPM filters, an 'OR'-operator, new import possibilities,
 custom track colors for missing or played tracks ...
-
 * "Santa Tell Me" what's new in preferences: some improved layout, the fetching of the soundcard's sample rate is fixed,
 a new setting for 'first hotcue', multiple options can be selected in the MIDI input editor...
-
 * Many "Days Of Christmas" full of improved Controller Mappings for Denon MC7000, Numark Scratch, Pioneer DDJ-FLX4, Traktor Kontrol S4 MK3 and MIDI for light.
-
 * A Controller Backend as a "Fairytale of New York" to map your controller: sysex, deck's track menu, support for bulk devices,
 drop of lodash dependency...
-
 * The experimental QML Skin is a ‘Player’s Ball’ by Outkast, an appetizer for the future GUI of Mixxx.
-
 * QT5 will Be Home For Christmas because Mixxx is using [QT6](https://www.qt.io/product/qt6) now, a lot of work has been put
 in study, preparation, testing, upgrading procedures, adapting routines, dialogs, widgets, libraries.
 Upgrading to QT6 wasn't just sitting "underneath the Mistletoe" but now Mixxx is in "Winter Wonderland".
 "Thank you Santa" Developers!
-
 * "Feliz" iOs & WebAssembly : experiments are on-going to run Mixxx on iOs and in a Webbrowser.
-
 * So many rafactorings have been made, improvements of the code by progressive insight, because of new
 possibilities in c++ and QT, because of studies in acoustics, user experiences...
 The list is to long to write or make a selection here, it would be failing all contributors,
