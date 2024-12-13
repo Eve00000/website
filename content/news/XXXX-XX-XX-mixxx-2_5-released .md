@@ -25,9 +25,10 @@ That's why the support has been dropped for macOS earlier than 11, Windows versi
 
 Ho Ho Ho, our sleigh is filled with many shiny presents:
 
-* A red box filled with brand new waveform textures and features: 'SlipMode waveform' gives you visual aid
+* A red box filled with improvements to waveforms: 'SlipMode waveform' gives you visual aid
 while scratchin', the 'beats until next marker' helps you never missing the break, the GL ES support makes it
 run smooth and many more...
+
 
 [@Video](https://www.youtube.com/watch?v=QUuiu7BlCzI)
 
