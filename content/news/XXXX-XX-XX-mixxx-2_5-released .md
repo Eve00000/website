@@ -62,7 +62,7 @@ Upgrading to QT6 wasn't just sitting "underneath the Mistletoe" but now Mixxx is
 "Thank you Santa" Developers!
 * "Feliz" iOs & WebAssembly: experiments are on-going to run Mixxx on iOs and in a Webbrowser.
 * So many rafactorings have been made, improvements of the code by progressive insight, because of new
-possibilities in c++ and QT, because of studies in acoustics, user experiences...
+possibilities in C++ and QT, because of studies in acoustics, user experiences...
 The list is too long to write or make a selection here, it would be failing all contributors,
 you can find the complete list further in this announcement, full of "Christmas Lights"
 
@@ -369,7 +369,7 @@ Mic drop, "Light the Candles All Around the World"
 * Qt 6.8 deprecated declaration fixes [#13845](https://github.com/mixxxdj/mixxx/pull/13845)
 * Add missing qt6-declarative-private-dev and qt6-base-private-dev package [#13904](https://github.com/mixxxdj/mixxx/pull/13904)
 
-### Experimental iOs support
+### Experimental iOS support
 
 * CMakeLists: Support building for iOS [#12672](https://github.com/mixxxdj/mixxx/pull/12672)
 * DlgPrefInterface: Disable tooltips on iOS by default [#12689](https://github.com/mixxxdj/mixxx/pull/12689)
