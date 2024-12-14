@@ -30,26 +30,26 @@ while scratchin', the 'beats until next marker' helps you never missing the brea
 run smooth and many more...
 
 
-[@Video](https://www.youtube.com/watch?v=QUuiu7BlCzI)
+@Video(https://www.youtube.com/watch?v=QUuiu7BlCzI)
 
-[@Video](https://www.youtube.com/watch?v=Xi3Ec0Jo-z8)
+@Video(https://www.youtube.com/watch?v=Xi3Ec0Jo-z8)
 
 * With a nice yellow bow around it, the new Skin & Interface features: the menubar can be hidden,
 reworked toggles (fullscreen, cue popup, vinyl control), improved tooltips, improved controls and checks (AutoDJ,
 effects), new command line interface options...
 
-[@Video](https://www.youtube.com/watch?v=tUYfLxeQh2o)
+@Video(https://www.youtube.com/watch?v=tUYfLxeQh2o)
 
 * Our engine became a V8 sleigh: undo function for BPM/beats, beatloop anchor, rate tap button...
 * "Rudolph, the Red-Nosed Reindeer" will sound much better with the compressor and glitch effects and the improved backend.
 
-[@Video](https://www.youtube.com/watch?v=W2Gjdv3R6BM)
+@Video(https://www.youtube.com/watch?v=W2Gjdv3R6BM)
 
 * Your "Jingles" and "Bells" can be sorted and found easier with the new library features: Cut, Copy and Paste in tracklists,
 tracks can be moved with ALT+Up/Down/PgUp/PgDn, the searchengine received new BPM filters, an 'OR'-operator, new import possibilities,
 custom track colors for missing or played tracks ...
 
-[@Video](https://www.youtube.com/watch?v=p-r2qz09qtg)
+@Video(https://www.youtube.com/watch?v=p-r2qz09qtg)
 
 * "Santa Tell Me" what's new in preferences: some improved layout, the fetching of the soundcard's sample rate is fixed,
 a new setting for 'first hotcue', multiple options can be selected in the MIDI input editor...
