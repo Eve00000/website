@@ -34,7 +34,7 @@ while scratchin'
 
 @Video(https://www.youtube.com/watch?v=QUuiu7BlCzI)
 
- * the GL ES support makes the waveforms run smooth.
+ * The GL ES support makes the waveforms run smooth.
 
 @Video(https://www.youtube.com/watch?v=5CRd_SEJq28)
 
@@ -45,6 +45,7 @@ effects), new command line interface options...
 @Video(https://www.youtube.com/watch?v=tUYfLxeQh2o)
 
 * Our engine became a V8 sleigh: undo function for BPM/beats, beatloop anchor, rate tap button...
+
 * "Rudolph, the Red-Nosed Reindeer" will sound much better with the compressor and glitch effects and the improved backend.
 
 @Video(https://www.youtube.com/watch?v=W2Gjdv3R6BM)
@@ -58,7 +59,7 @@ effects), new command line interface options...
 @Video(https://www.youtube.com/watch?v=tNWS_DHmPbo)
 
 * With a summary containing the number of tracks and the total duration added to the name of crates, playlists and historylists makes it easy to find the right list.
-  
+
 @Video(https://www.youtube.com/watch?v=fG37mGOAb7o)
 
 * The searchengine received new BPM filters, an 'OR'-operator, new import possibilities,
