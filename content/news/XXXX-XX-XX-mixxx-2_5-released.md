@@ -36,7 +36,7 @@ while scratchin'
 
  * The GL ES support makes the waveforms run smooth.
 
-@Video(https://www.youtube.com/watch?v=5CRd_SEJq28)
+@Video(https://www.youtube.com/watch?v=-yncaT3WxyE)
 
 * With a nice yellow bow around it, the new Skin & Interface features: the menubar can be hidden,
 reworked toggles (fullscreen, cue popup, vinyl control), improved tooltips, improved controls and checks (AutoDJ,
