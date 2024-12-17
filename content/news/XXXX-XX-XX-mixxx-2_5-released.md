@@ -34,9 +34,9 @@ while scratchin'
 
 @Video(https://www.youtube.com/watch?v=QUuiu7BlCzI)
 
- * The GL ES support makes the waveforms run smooth.
+* The GL ES support makes the waveforms run smooth.
 
-@Video(https://www.youtube.com/watch?v=qJ9lVIl_Rbk)
+@Video(https://www.youtube.com/watch?v=lzAtoxXEha0)
 
 * With a nice yellow bow around it, the new Skin & Interface features: the menubar can be hidden,
 reworked toggles (fullscreen, cue popup, vinyl control), improved tooltips, improved controls and checks (AutoDJ,
@@ -45,6 +45,8 @@ effects), new command line interface options...
 @Video(https://www.youtube.com/watch?v=tUYfLxeQh2o)
 
 * Our engine became a V8 sleigh: undo function for BPM/beats, beatloop anchor, rate tap button...
+
+@Video(https://www.youtube.com/watch?v=P0NJsLZyQ-c)
 
 * "Rudolph, the Red-Nosed Reindeer" will sound much better with the compressor and glitch effects and the improved backend.
 
@@ -64,6 +66,8 @@ effects), new command line interface options...
 
 * The searchengine received new BPM filters, an 'OR'-operator, new import possibilities,
 custom track colors for missing or played tracks ...
+
+@Video(https://www.youtube.com/watch?v=KDj2jSQ0oMw)
 
 * "Santa Tell Me" what's new in preferences: some improved layout, the fetching of the soundcard's sample rate is fixed,
 a new setting for 'first hotcue', multiple options can be selected in the MIDI input editor...
