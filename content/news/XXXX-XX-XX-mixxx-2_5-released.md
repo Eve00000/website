@@ -30,7 +30,7 @@ while scratchin'
 
 @Video(https://www.youtube.com/watch?v=Xi3Ec0Jo-z8)
 
-* The 'beats until next marker' helps you never missing the break
+* The 'beats until next marker' helps you to never miss the break
 
 @Video(https://www.youtube.com/watch?v=QUuiu7BlCzI)
 
