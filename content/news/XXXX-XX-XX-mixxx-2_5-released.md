@@ -366,22 +366,6 @@ Mic drop, "Light the Candles All Around the World"
 * Qt 6.8 deprecated declaration fixes [#13845](https://github.com/mixxxdj/mixxx/pull/13845)
 * Add missing qt6-declarative-private-dev and qt6-base-private-dev package [#13904](https://github.com/mixxxdj/mixxx/pull/13904)
 
-### Experimental iOS support
-
-* CMakeLists: Support building for iOS [#12672](https://github.com/mixxxdj/mixxx/pull/12672)
-* DlgPrefInterface: Disable tooltips on iOS by default [#12689](https://github.com/mixxxdj/mixxx/pull/12689)
-* SoundManager: Set up `AVAudioSession` on iOS [#12714](https://github.com/mixxxdj/mixxx/pull/12714)
-* SoundManager: Use correct PortAudio backend on iOS [#12716](https://github.com/mixxxdj/mixxx/pull/12716)
-* DesktopHelper: Add openUrl abstraction to support iOS [#12698](https://github.com/mixxxdj/mixxx/pull/12698)
-* iOS packaging: Add Info.plist, launch screen and app icon [#12676](https://github.com/mixxxdj/mixxx/pull/12676)
-* CmdlineArgs: Move config directory to a user-accessible location on iOS
-  [#12688](https://github.com/mixxxdj/mixxx/pull/12688)
-* CMakeLists: Work around Qt shader bug with Xcode
-  [#13379](https://github.com/mixxxdj/mixxx/pull/13379)
-  [#13378](https://github.com/mixxxdj/mixxx/issues/13378)
-* AudioUnitManager: Disable unavailable in-process instantiation on iOS
-  [#13383](https://github.com/mixxxdj/mixxx/pull/13383)
-
 ### Experimental WebAssembly support
 
 * CMakeLists: Add support for targeting Emscripten/WebAssembly [#12918](https://github.com/mixxxdj/mixxx/pull/12918)
