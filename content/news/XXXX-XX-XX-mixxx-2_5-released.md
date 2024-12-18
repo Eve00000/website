@@ -54,7 +54,7 @@ effects), new command line interface options...
 
 * Your "Jingles" and "Bells" can be sorted and found easier with the new library features: Cut, Copy and Paste in tracklists.
 
-@Video(https://www.youtube.com/watch?v=p-2qPXCCaGVGI)
+@Video(https://www.youtube.com/watch?v=2qPXCCaGVGI)
 
 * Tracks can be moved with ALT+Up/Down/PgUp/PgDn
 
