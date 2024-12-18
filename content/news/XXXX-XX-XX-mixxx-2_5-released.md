@@ -28,46 +28,46 @@ Ho Ho Ho, our sleigh is filled with many shiny presents:
 * A red box filled with improvements to waveforms: 'SlipMode waveform' gives you visual aid
 while scratchin'
 
-@Video(https://www.youtube.com/watch?v=Xi3Ec0Jo-z8)
+@Video(https://www.youtube.com/watch?v=6VRz48Ler9o)
 
 * The 'beats until next marker' helps you to never miss the break
 
-@Video(https://www.youtube.com/watch?v=QUuiu7BlCzI)
+@Video(https://www.youtube.com/watch?v=uYCXhKeJVFo)
 
 * The GL ES support makes the waveforms run smooth.
 
-@Video(https://www.youtube.com/watch?v=lzAtoxXEha0)
+@Video(https://www.youtube.com/watch?v=5VJBuUR_cn8)
 
 * With a nice yellow bow around it, the new Skin & Interface features: the menubar can be hidden,
 reworked toggles (fullscreen, cue popup, vinyl control), improved tooltips, improved controls and checks (AutoDJ,
 effects), new command line interface options...
 
-@Video(https://www.youtube.com/watch?v=tUYfLxeQh2o)
+@Video(https://www.youtube.com/watch?v=qMRcJvntboE)
 
 * Our engine became a V8 sleigh: undo function for BPM/beats, beatloop anchor, rate tap button...
 
-@Video(https://www.youtube.com/watch?v=P0NJsLZyQ-c)
+@Video(https://www.youtube.com/watch?v=7XKGodjiTNg)
 
 * "Rudolph, the Red-Nosed Reindeer" will sound much better with the compressor and glitch effects and the improved backend.
 
-@Video(https://www.youtube.com/watch?v=W2Gjdv3R6BM)
+@Video(https://www.youtube.com/watch?v=klOjBuZm0Qg)
 
 * Your "Jingles" and "Bells" can be sorted and found easier with the new library features: Cut, Copy and Paste in tracklists.
 
-@Video(https://www.youtube.com/watch?v=p-r2qz09qtg)
+@Video(https://www.youtube.com/watch?v=p-2qPXCCaGVGI)
 
 * Tracks can be moved with ALT+Up/Down/PgUp/PgDn
 
-@Video(https://www.youtube.com/watch?v=tNWS_DHmPbo)
+@Video(https://www.youtube.com/watch?v=MVvEP18a0xw)
 
 * With a summary containing the number of tracks and the total duration added to the name of crates, playlists and historylists makes it easy to find the right list.
 
-@Video(https://www.youtube.com/watch?v=fG37mGOAb7o)
+@Video(https://www.youtube.com/watch?v=0HtpOOIpjaM)
 
 * The searchengine received new BPM filters, an 'OR'-operator, new import possibilities,
 custom track colors for missing or played tracks ...
 
-@Video(https://www.youtube.com/watch?v=KDj2jSQ0oMw)
+@Video(https://www.youtube.com/watch?v=qfnH7jWw0iY)
 
 * "Santa Tell Me" what's new in preferences: some improved layout, the fetching of the soundcard's sample rate is fixed,
 a new setting for 'first hotcue', multiple options can be selected in the MIDI input editor...
@@ -99,6 +99,9 @@ Mic drop, "Light the Candles All Around the World"
 
 
 #### ... and a happy 2.5
+
+Start using your brand new toy, grab it from the [Download page](https://mixxx.org/download/).
+Unwrap your gift, [the complete changelog 2.5](https://github.com/mixxxdj/mixxx/blob/2.5/CHANGELOG.md)
 
 
 ### Waveforms
