@@ -326,30 +326,6 @@ Mic drop, "Light the Candles All Around the World"
 * Drop lodash dependency in ComponentJS
   [#12779](https://github.com/mixxxdj/mixxx/pull/12779)
 
-### Experimental QML Skin
-
-* Add Experimental QML Skin that can be tested via the --qml command line option
-  [#13152](https://github.com/mixxxdj/mixxx/pull/13152)
-* Fix type error in `Slider.qml` [#11423](https://github.com/mixxxdj/mixxx/pull/11423)
-* Allow switching between legacy and new QML UI with command arg [#12139](https://github.com/mixxxdj/mixxx/pull/12139)
-* Add PlayerProxy missing current track when created after loading [#12559](https://github.com/mixxxdj/mixxx/pull/12559)
-* Fix: Add `qt6-qpa-plugins` to dependencies [#12549](https://github.com/mixxxdj/mixxx/pull/12549)
-* Fix: Improve knobs by applying selective 4xMSAA on the Arc shape [#12541](https://github.com/mixxxdj/mixxx/pull/12541)
-* Add QML interceptor to auto reload on file change
-  [#12795](https://github.com/mixxxdj/mixxx/pull/12795)
-  [#12844](https://github.com/mixxxdj/mixxx/pull/12844)
-* Add multi-sampling settings for QML [#12546](https://github.com/mixxxdj/mixxx/pull/12546)
-  [#12794](https://github.com/mixxxdj/mixxx/pull/12794)
-  [#12536](https://github.com/mixxxdj/mixxx/issues/12536)
-  [#13058](https://github.com/mixxxdj/mixxx/pull/13058)
-* Install qml module on Windows [#12604](https://github.com/mixxxdj/mixxx/pull/12604)
-* Add scrolling waveforms
-  [#3967](https://github.com/mixxxdj/mixxx/pull/3967)
-  [#13009](https://github.com/mixxxdj/mixxx/pull/13009)
-* Fix: handle case where Waveform data is missing [#13009](https://github.com/mixxxdj/mixxx/pull/13009)
-* Fix: allow missing COs on QML component [#13011](https://github.com/mixxxdj/mixxx/pull/13011)
-* Initialize CmdlineArgs::m_qml [#13152](https://github.com/mixxxdj/mixxx/pull/13152)
-* Fix: Remove target compile defs for non-existing QML CMake target [#13506](https://github.com/mixxxdj/mixxx/pull/13506)
 
 ### Update to Qt6
 
