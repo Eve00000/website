@@ -79,13 +79,13 @@ a new setting for 'first hotcue', multiple options can be selected in the MIDI i
 * A Controller Backend as a "Fairytale of New York" to map your controller: sysex, deck's track menu, support for bulk devices,
 drop of lodash dependency...
 
-* QT5 will Be Home For Christmas because Mixxx is using [QT6](https://www.qt.io/product/qt6) now, a lot of work has been put
+* Qt5 will Be Home For Christmas because Mixxx is using [Qt6](https://www.qt.io/product/qt6) now, a lot of work has been put
 in study, preparation, testing, upgrading procedures, adapting routines, dialogs, widgets, libraries.
-Upgrading to QT6 wasn't just sitting "underneath the Mistletoe" but now Mixxx is in "Winter Wonderland".
+Upgrading to Qt6 wasn't just sitting "underneath the Mistletoe" but now Mixxx is in "Winter Wonderland".
 "Thank you Santa" Developers!
 
 * So many rafactorings have been made, improvements of the code by progressive insight, because of new
-possibilities in C++ and QT, because of studies in acoustics, user experiences...
+possibilities in C++ and Qt, because of studies in acoustics, user experiences...
 The list is too long to write or make a selection here, it would be failing all contributors,
 you can find the complete list further in this announcement, full of "Christmas Lights"
 
@@ -336,7 +336,7 @@ Unwrap your gift, [the complete changelog 2.5](https://github.com/mixxxdj/mixxx/
 
 * Qt6 prepare [#11863](https://github.com/mixxxdj/mixxx/pull/11863)
 * Qt6 switch [#11892](https://github.com/mixxxdj/mixxx/pull/11892)
-* CMakeLists: Default `QT6` to `ON` [#11934](https://github.com/mixxxdj/mixxx/pull/11934)
+* CMakeLists: Default `Qt6` to `ON` [#11934](https://github.com/mixxxdj/mixxx/pull/11934)
 * Build with Qt6 and optionally with QML [#11608](https://github.com/mixxxdj/mixxx/pull/11608)
 * Use constInsert() template [#11847](https://github.com/mixxxdj/mixxx/pull/11847)
 * DlgAbout: Add Qt version to the dialog [#11862](https://github.com/mixxxdj/mixxx/pull/11862)
