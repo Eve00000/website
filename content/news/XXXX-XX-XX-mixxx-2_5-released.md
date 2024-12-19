@@ -48,7 +48,8 @@ effects), new command line interface options...
 
 @Video(https://www.youtube.com/watch?v=7XKGodjiTNg)
 
-* "Rudolph, the Red-Nosed Reindeer" will sound much better with the compressor and glitch effects and the improved backend.
+* "Rudolph, the Red-Nosed Reindeer" will sound much better with the compressor and glitch effects and the improved backend, which now supports also native Audio Unit (AU) effect plugins on macOS.
+
 
 @Video(https://www.youtube.com/watch?v=klOjBuZm0Qg)
 
