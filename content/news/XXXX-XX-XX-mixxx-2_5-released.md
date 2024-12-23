@@ -85,7 +85,7 @@ The list is too long to write or make a selection here, it would be failing all 
 
 #### So this is Christmas
 
-"Baby, It's Cold Outside", so our present will be lots of fun exploring this new version. You'll need quiet some time to get used to all new features, discover the real possibilities, 
+"Baby, It's Cold Outside", so our present will be lots of fun exploring this new version. You'll need quiet some time to get used to all new features, discover the real possibilities,
 to get some adapted workflow with new handles. Mixxx whishes you a "Wonderful Christmas Time".
 
 Mic drop, "Light the Candles All Around the World"
