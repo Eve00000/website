@@ -71,14 +71,10 @@ effects), new command line interface options...
 @Video(https://www.youtube.com/watch?v=qfnH7jWw0iY)
 
 * "Santa Tell Me" what's new in preferences: some improved layout, the fetching of the soundcard's sample rate is fixed, a new setting for 'first hotcue', multiple options can be selected in the MIDI input editor...
-
 * Many "Days Of Christmas" full of improved Controller Mappings for Denon MC7000, Numark Scratch, Pioneer DDJ-FLX4, Traktor Kontrol S4 MK3 and MIDI for light.
-
 * A Controller Backend as a "Fairytale of New York" to map your controller: sysex, deck's track menu, support for bulk devices,
   drop of lodash dependency...
-
 * Qt5 will Be Home For Christmas because Mixxx is using [Qt6](https://www.qt.io/product/qt6) now, a lot of work has been put in study, preparation, testing, upgrading procedures, adapting routines, dialogs, widgets, libraries. Upgrading to Qt6 wasn't just sitting "underneath the Mistletoe" but now Mixxx is in "Winter Wonderland". "Thank you Santa" Developers!
-
 * So many rafactorings have been made, improvements of the code by progressive insight, because of new possibilities in C++ and Qt, because of studies in acoustics, user experiences...
 The list is too long to write or make a selection here, it would be failing all contributors, you can find the complete list further in this announcement, full of "Christmas Lights"
 
