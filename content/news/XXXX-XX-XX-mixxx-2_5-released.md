@@ -475,4 +475,4 @@ Unwrap your gift, [the complete changelog 2.5](https://github.com/mixxxdj/mixxx/
 * Underneath the Mistletoe (Kelly Clarkson)
 * Winter Wonderland (Bing Crosby)
 * Wonderful Christmas Time (Paul McCartney)
-* 8 Days Of Christmas (Destiny's Child)Williams)
+* 8 Days Of Christmas (Destiny's Child)
