@@ -1,4 +1,4 @@
-title: Mixxx 2.5 Release Announcement
+title: Mixxx 2.5 Released
 authors: Evelynne Veys
 tags: 2.5, release announcement
 comments: yes
