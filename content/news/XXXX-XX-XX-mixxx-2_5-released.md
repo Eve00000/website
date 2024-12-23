@@ -27,57 +27,59 @@ That's why the support has been dropped for macOS earlier than 11, Windows versi
 
 Ho Ho Ho, our sleigh is filled with many shiny presents:
 
-* A red box filled with improvements to waveforms: 'SlipMode waveform' gives you visual aid
-while scratchin'
+A red box filled with improvements to waveforms: 'SlipMode waveform' gives you visual aid while scratchin':
 
 @Video(https://www.youtube.com/watch?v=6VRz48Ler9o)
 
-* The 'beats until next marker' helps you to never miss the break
+The 'beats until next marker' helps you to never miss the break:
 
 @Video(https://www.youtube.com/watch?v=uYCXhKeJVFo)
 
-* The GL ES support makes the waveforms run smooth.
+The GL ES support makes the waveforms run smooth:
 
 @Video(https://www.youtube.com/watch?v=5VJBuUR_cn8)
 
-* With a nice yellow bow around it, the new Skin & Interface features: the menubar can be hidden,
+With a nice yellow bow around it, the new Skin & Interface features: the menubar can be hidden,
 reworked toggles (fullscreen, cue popup, vinyl control), improved tooltips, improved controls and checks (AutoDJ,
 effects), new command line interface options...
 
 @Video(https://www.youtube.com/watch?v=qMRcJvntboE)
 
-* Our engine became a V8 sleigh: undo function for BPM/beats, beatloop anchor, rate tap button...
+Our engine became a V8 sleigh: undo function for BPM/beats, beatloop anchor, rate tap button...
 
 @Video(https://www.youtube.com/watch?v=7XKGodjiTNg)
 
-* "Rudolph, the Red-Nosed Reindeer" will sound much better with the compressor and glitch effects and the improved backend, which now supports also native Audio Unit (AU) effect plugins on macOS.
+"Rudolph, the Red-Nosed Reindeer" will sound much better with the compressor and glitch effects and the improved backend, which now supports also native Audio Unit (AU) effect plugins on macOS.
 
 
 @Video(https://www.youtube.com/watch?v=klOjBuZm0Qg)
 
-* Your "Jingles" and "Bells" can be sorted and found easier with the new library features: Cut, Copy and Paste in tracklists.
+Your "Jingles" and "Bells" can be sorted and found easier with the new library features: Cut, Copy and Paste in tracklists:
 
 @Video(https://www.youtube.com/watch?v=2qPXCCaGVGI)
 
-* Tracks can be moved with ALT+Up/Down/PgUp/PgDn
+Tracks can be moved with Alt+Up/Down/PgUp/PgDn:
 
 @Video(https://www.youtube.com/watch?v=MVvEP18a0xw)
 
-* With a summary containing the number of tracks and the total duration added to the name of crates, playlists and historylists makes it easy to find the right list.
+With a summary containing the number of tracks and the total duration added to the name of crates, playlists and historylists makes it easy to find the right list:
 
 @Video(https://www.youtube.com/watch?v=0HtpOOIpjaM)
 
-* The searchengine received new BPM filters, an 'OR'-operator, new import possibilities, custom track colors for missing or played tracks ...
+The searchengine received new BPM filters, an 'OR'-operator, new import possibilities, custom track colors for missing or played tracks...
 
 @Video(https://www.youtube.com/watch?v=qfnH7jWw0iY)
 
-* "Santa Tell Me" what's new in preferences: some improved layout, the fetching of the soundcard's sample rate is fixed, a new setting for 'first hotcue', multiple options can be selected in the MIDI input editor...
-* Many "Days Of Christmas" full of improved Controller Mappings for Denon MC7000, Numark Scratch, Pioneer DDJ-FLX4, Traktor Kontrol S4 MK3 and MIDI for light.
-* A Controller Backend as a "Fairytale of New York" to map your controller: sysex, deck's track menu, support for bulk devices,
-  drop of lodash dependency...
-* Qt5 will Be Home For Christmas because Mixxx is using [Qt6](https://www.qt.io/product/qt6) now, a lot of work has been put in study, preparation, testing, upgrading procedures, adapting routines, dialogs, widgets, libraries. Upgrading to Qt6 wasn't just sitting "underneath the Mistletoe" but now Mixxx is in "Winter Wonderland". "Thank you Santa" Developers!
-* So many rafactorings have been made, improvements of the code by progressive insight, because of new possibilities in C++ and Qt, because of studies in acoustics, user experiences...
-The list is too long to write or make a selection here, it would be failing all contributors, you can find the complete list further in this announcement, full of "Christmas Lights"
+"Santa Tell Me" what's new in preferences: some improved layout, the fetching of the soundcard's sample rate is fixed, a new setting for 'first hotcue', multiple options can be selected in the MIDI input editor.
+
+Many "Days Of Christmas" full of improved Controller Mappings for Denon MC7000, Numark Scratch, Pioneer DDJ-FLX4, Traktor Kontrol S4 MK3 and MIDI for light.
+
+A Controller Backend as a "Fairytale of New York" to map your controller: sysex, deck's track menu, support for bulk devices. We also dropped the lodash dependency.
+
+Qt5 will Be Home For Christmas because Mixxx is using [Qt6](https://www.qt.io/product/qt6) now, a lot of work has been put in study, preparation, testing, upgrading procedures, adapting routines, dialogs, widgets, libraries. Upgrading to Qt6 wasn't just sitting "underneath the Mistletoe" but now Mixxx is in "Winter Wonderland". "Thank you Santa" Developers!
+
+So many rafactorings have been made, improvements of the code by progressive insight, because of new possibilities in C++ and Qt, because of studies in acoustics, user experiences...
+The list is too long to write or make a selection here, it would be failing all contributors, you can find the complete list further in this announcement, full of "Christmas Lights".
 
 
 #### So this is Christmas
