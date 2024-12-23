@@ -8,6 +8,7 @@ status: draft
 
 Home alone? Scrooged? The sound of music? Die hard?
 Change plans: this year you will be having something better to do than watching old Christmas movies.
+
 Mixxx is now your secret "Santa comin' to town", our elves had "good hearts with the burning desire to work hard",
 to get you "Rockin' around the Christmas tree at the party hop" with "something mighty sweet to see".
 "For the present, look high, not low": Mixxx's "presents 'neath the tree"
